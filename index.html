@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"/>
+  <meta name="theme-color" content="#d6efed"/>
+  <meta name="description" content="FeedLab – Entdecke deinen Feed. Eine Unterrichtssimulation."/>
+  <title>FeedLab – Entdecke deinen Feed</title>
+  <link rel="stylesheet" href="styles.css"/>
+</head>
+<body class="welcome-pending natural-feed">
+  <section id="welcomeScreen" class="welcome-screen" aria-labelledby="welcomeTitle">
+    <div class="welcome-card">
+      <div class="logo-wrap welcome-logo"><span class="brand-icon" aria-hidden="true">✳</span><div class="brand">feed<span>lab</span><span class="brand-dot">.</span></div></div>
+      <div class="welcome-art" aria-hidden="true"><span>♡</span><span>✳</span><span>✦</span></div>
+      <div class="eyebrow">WELCOME TO YOUR FEED</div>
+      <h1 id="welcomeTitle">Entdecke deinen Feed!</h1>
+      <p class="welcome-tagline">Dein Feed. Deine Interessen. Deine Entscheidungen.</p>
+      <div class="welcome-task"><h2>Dein Arbeitsauftrag</h2><p>Nutze FeedLab so, wie du normalerweise ein soziales Netzwerk nutzen würdest.</p>
+        <ul><li><span aria-hidden="true">↕</span> Scrolle durch deinen Feed.</li><li><span aria-hidden="true">◎</span> Sieh dir Beiträge an, die dich interessieren.</li><li><span aria-hidden="true">♡</span> Entscheide selbst, welche Funktionen du nutzt.</li><li><span aria-hidden="true">◷</span> Nutze FeedLab, bis deine Lehrkraft dir ein Zeichen gibt oder der Feed endet.</li></ul>
+      </div>
+      <p class="welcome-reassurance">Es gibt kein Richtig oder Falsch. Sei einfach du selbst!</p>
+      <button class="primary-btn welcome-start" id="startFeed" type="button">Feed entdecken <span aria-hidden="true">→</span></button>
+      <p class="welcome-privacy">FeedLab ist eine Unterrichtssimulation. Nutzungsaktivitäten werden zu Lernzwecken erfasst und bleiben im Arbeitsspeicher dieses Browser-Tabs. Kein Login erforderlich. Beim Neuladen oder Schließen werden sie gelöscht.</p>
+      <p class="welcome-privacy"><a href="impressum.html" target="_blank" rel="noopener">Impressum, Lizenz und Datenschutz (neuer Tab)</a></p>
+    </div>
+    <img class="welcome-illustration" src="assets/folien-startmotiv.webp" alt="" width="1122" height="1402">
+  </section>
+  <div class="app-shell">
+    <aside class="sidebar" aria-label="Hauptnavigation">
+      <div class="logo-wrap"><span class="brand-icon" aria-hidden="true">✳</span><div><div class="brand">feed<span>lab</span><span class="brand-dot">.</span></div><div class="brand-caption">DIGITAL EXPERIMENT</div></div></div>
+      <nav class="side-nav" aria-label="Seiten">
+        <button class="nav-item selected" data-nav="feed" type="button"><span class="nav-ico" aria-hidden="true">⌂</span><span>Dein Feed</span><i class="sel-pill"></i></button>
+        <button class="nav-item" data-nav="discover" type="button"><span class="nav-ico" aria-hidden="true">⌕</span><span>Entdecken</span></button>
+        <button class="nav-item" data-nav="reflection" type="button"><span class="nav-ico" aria-hidden="true">✎</span><span>Beobachtung</span></button>
+        <button class="nav-item" data-nav="insights" type="button"><span class="nav-ico" aria-hidden="true">▥</span><span>Algorithmus-Check</span></button>
+        <button class="nav-item" data-nav="challenge" type="button"><span class="nav-ico" aria-hidden="true">✦</span><span>Mission</span></button>
+      </nav>
+      <div class="side-foot"><div class="lesson-chip">✧ INFORMATIK & KI</div><p>Keine echten Konten.<br>Keine dauerhafte Speicherung.<br>Nur dein Experiment.</p><button class="reset-link" id="sideReset" type="button">↻ Experiment neu starten</button></div>
+    </aside>
+
+    <div class="center-col">
+      <header class="mobile-header"><div class="mobile-brand"><span class="brand-icon">✳</span><span class="brand">feed<span>lab</span><span class="brand-dot">.</span></span></div><button id="mobileHelp" class="icon-button" type="button" aria-label="So funktioniert FeedLab">?</button></header>
+      <main id="main" tabindex="-1"></main>
+      <footer class="main-footer">FeedLab ist eine <strong>Unterrichtssimulation</strong>, kein echtes soziales Netzwerk. Die Empfehlung ist bewusst vereinfacht.<br><a href="impressum.html" target="_blank" rel="noopener">Impressum, Lizenz und Datenschutz (neuer Tab)</a></footer>
+    </div>
+
+
+  </div>
+
+  <nav class="bottom-nav" aria-label="Mobile Navigation"><button data-nav="feed" class="active" type="button" aria-label="Feed"><span>⌂</span><small>Feed</small></button><button data-nav="discover" type="button" aria-label="Entdecken"><span>⌕</span><small>Entdecken</small></button><button data-nav="reflection" type="button" aria-label="Beobachtung"><span>✎</span><small>Level 2</small></button><button data-nav="insights" type="button" aria-label="Auswertung"><span>▥</span><small>Analyse</small></button><button data-nav="challenge" type="button" aria-label="Mission"><span>✦</span><small>Mission</small></button></nav>
+
+  <div class="toast-area" role="status" aria-live="polite" aria-atomic="true" id="toast"></div>
+  <div class="modal-root" id="modalRoot" aria-live="off"></div>
+  <script src="app.js" defer></script>
+</body>
+</html>

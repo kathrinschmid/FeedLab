@@ -1,0 +1,888 @@
+{
+  "gaming-0": {
+    "image": "beitrag-gaming-01.webp",
+    "source": "a_vivid_cinematic_neon_gta_style_illustration.png",
+    "caption": "Abendlicht, Palmen, ein Auto vor uns und gefühlt tausend Möglichkeiten. Genau dieses freie Erkunden macht die GTA-VI-Spielwelt so reizvoll – manchmal ist der Umweg spannender als die Mission.",
+    "question": "Was würdest du zuerst machen: die Stadt erkunden oder direkt eine Mission starten?",
+    "hashtags": "#GTA6 #GrandTheftAutoVI #OpenWorld #GamingCommunity #ViceCityVibes",
+    "subtopic": "gta6"
+  },
+  "gaming-1": {
+    "image": "beitrag-gaming-02.webp",
+    "source": "a_vivid_cinematic_high_detail_ai_generated_gamin.png",
+    "caption": "Nur eine kleine Hütte bauen – und plötzlich ist es eine ganze Festung am Wasser. In Minecraft wird aus jedem Block eine Idee, vor allem wenn man zusammen kreativ wird.",
+    "question": "Was baut ihr zuerst: eine sichere Base oder etwas komplett Verrücktes?",
+    "hashtags": "#Minecraft #BuildChallenge #SurvivalMode #CreativeGaming #BlockWorld",
+    "subtopic": "minecraft"
+  },
+  "gaming-2": {
+    "image": "beitrag-gaming-03.webp",
+    "source": "a_vibrant_photorealistic_stylized_gaming_room_sce.png",
+    "caption": "Bunte Welten, verrückte Ideen und ständig ein neues Erlebnis: Auf Roblox ist die nächste Überraschung oft nur einen Klick entfernt. Heute eine kunterbunte Stadt, morgen vielleicht ein Obby.",
+    "question": "Welche Roblox-Erfahrung macht dir mit Freund*innen am meisten Spaß?",
+    "hashtags": "#Roblox #RobloxCommunity #Obby #GamingFriends #AvatarStyle",
+    "subtopic": "roblox"
+  },
+  "gaming-3": {
+    "image": "beitrag-gaming-04.webp",
+    "source": "a_close_cinematic_gaming_room_scene_a_realistic.png",
+    "caption": "Die Zone wird kleiner, dein Team ruft durcheinander und plötzlich zählt jeder Treffer. Fortnite ist genau dieses Chaos aus Tempo, Überblick und einer richtig guten gemeinsamen Runde.",
+    "question": "Lieber taktisch bis zum Endgame spielen oder sofort ins nächste Duell?",
+    "hashtags": "#Fortnite #BattleRoyale #SquadGoals #Endgame #GamingMoments",
+    "subtopic": "fortnite"
+  },
+  "gaming-4": {
+    "image": "beitrag-gaming-05.webp",
+    "source": "a_vibrant_neon_lit_gaming_setup_scene_shot_in_a_r.png",
+    "caption": "Ein kurzer Blick auf die Arena, dann wird schon ausgewichen, gezielt und gemeinsam Druck gemacht. Brawl Stars wirkt bunt und leicht – bis eine Runde kurz vor Schluss kippt.",
+    "question": "Mit welchem Brawler spielst du am liebsten?",
+    "hashtags": "#BrawlStars #Brawler #MobileGaming #TeamPlay #Matchday",
+    "subtopic": "brawlstars"
+  },
+  "gaming-5": {
+    "image": "beitrag-gaming-06.webp",
+    "source": "neon_blockpuzzle_im_gamingzimmer.png",
+    "caption": "Nur kurz ein paar Blöcke setzen … und auf einmal passt genau das eine Teil nicht mehr. Block Blast! ist so simpel zu starten und so schwer wieder wegzulegen.",
+    "question": "Planst du deine nächsten Züge oder spielst du spontan?",
+    "hashtags": "#BlockBlast #PuzzleGame #MobileGaming #Highscore #BrainChallenge",
+    "subtopic": "blockblast"
+  },
+  "gaming-6": {
+    "image": "beitrag-gaming-07.webp",
+    "source": "neon_fussballnacht_im_gaming_zimmer.png",
+    "caption": "Flutlicht, letzter Angriff, Verteidigung steht dicht – und der nächste Pass könnte entscheiden. In EA SPORTS FC 27 ist das Gefühl nach einem hart erkämpften Tor einfach etwas anderes.",
+    "question": "Was ist dein Spielstil: Ballbesitz oder schnelles Kontern?",
+    "hashtags": "#EASportsFC27 #FootballGaming #UltimateTeam #GamingMatch #LastMinuteGoal",
+    "subtopic": "fc27"
+  },
+  "gaming-7": {
+    "image": "beitrag-gaming-08.webp",
+    "source": "a_vibrant_neon_lit_gaming_room_scene_in_a_cinemat.png",
+    "caption": "Vorne noch in Führung, dann kommt aus dem Nichts das nächste Item. Mario Kart World ist dieses perfekte Rennchaos, bei dem sich Freundschaften in der letzten Kurve kurz verabschieden.",
+    "question": "Welche Strecke würdest du sofort noch einmal fahren?",
+    "hashtags": "#MarioKartWorld #KartRacing #NintendoGaming #RaceNight #MultiplayerFun",
+    "subtopic": "mariokart"
+  },
+  "gaming-8": {
+    "image": "beitrag-gaming-09.webp",
+    "source": "a_vibrant_hyper_realistic_cinematic_gaming_setup.png",
+    "caption": "Eigentlich wollte ich nur kurz ein Zimmer einrichten. Jetzt hat das Haus drei Stockwerke, einen Garten und ich überlege immer noch, welche Lampe passt. Willkommen bei Die Sims 4.",
+    "question": "Verbringst du mehr Zeit im Baumodus oder mit den Geschichten deiner Sims?",
+    "hashtags": "#DieSims4 #TheSims4 #BuildMode #CozyGaming #SimLife",
+    "subtopic": "sims4"
+  },
+  "gaming-9": {
+    "image": "beitrag-gaming-10.webp",
+    "source": "a_vibrant_neon_pink_and_purple_lit_gaming_room_sc.png",
+    "caption": "Thema bekommen, Outfit zusammenstellen, kurz vor Schluss noch die Schuhe wechseln – und dann ab auf den Laufsteg. Dress to Impress ist kreatives Styling mit jeder Menge Zeitdruck.",
+    "question": "Was ist schwieriger: ein originelles Outfit oder die Bewertung danach?",
+    "hashtags": "#DressToImpress #RobloxFashion #RunwayLook #StyleChallenge #AvatarFashion",
+    "subtopic": "dresstoimpress"
+  },
+  "gaming-10": {
+    "image": "beitrag-gaming-11.webp",
+    "source": "a_detailed_realistic_neon_lit_gaming_room_scene_i.png",
+    "caption": "Ein neuer Weg, Lichter zwischen den Häusern und im Hintergrund schon die nächste Welt zum Erkunden. Genshin Impact macht aus kleinen Entdeckungen manchmal die besten Spielmomente.",
+    "question": "Zieht es dich eher zu Quests, zum Erkunden oder zu neuen Charakteren?",
+    "hashtags": "#GenshinImpact #Teyvat #OpenWorldRPG #GamingAdventure #FantasyWorld",
+    "subtopic": "genshin"
+  },
+  "gaming-11": {
+    "image": "beitrag-gaming-12.webp",
+    "source": "a_vibrant_cinematic_gaming_setup_scene_in_a_dim_p.png",
+    "caption": "Das Lagerfeuer brennt noch, aber hinter den Bäumen wird es verdächtig dunkel. Bei 99 Nights in the Forest wird aus „nur noch eine Nacht“ schnell eine ziemlich nervenaufreibende Teamrunde.",
+    "question": "Was ist eure beste Überlebensstrategie: zusammenbleiben oder Aufgaben aufteilen?",
+    "hashtags": "#99NightsInTheForest #RobloxSurvival #Campfire #CoopGaming #SurvivalChallenge",
+    "subtopic": "99nights"
+  },
+  "tiere-0": {
+    "image": "beitrag-tiere-01.webp",
+    "source": "a_sharp_realistic_indoor_scene_of_a_cozy_workspac.png",
+    "caption": "Kaum ist der Laptop offen, erklärt diese Katze die Tastatur zu ihrem persönlichen Liegeplatz. Prioritäten sind eben Prioritäten – und diese Pfote gewinnt jede Diskussion. 🐱",
+    "question": "Setzt sich eure Katze auch immer genau dorthin, wo ihr arbeiten wollt?",
+    "hashtags": "#KatzenLiebe #CatOnKeyboard #MiezMoment #CatLife #Fellnasen",
+    "subtopic": "katzen"
+  },
+  "tiere-1": {
+    "image": "beitrag-tiere-02.webp",
+    "source": "a_crisp_realistic_high_detail_indoor_entryway_sc.png",
+    "caption": "Leine schon im Maul, Blick zur Tür: Dieser Golden Retriever ist ganz eindeutig früher bereit als sein Mensch. Wer könnte bei diesem Gesicht noch „gleich“ sagen? 🐶",
+    "question": "Womit kündigt euer Hund an, dass jetzt Spaziergangszeit ist?",
+    "hashtags": "#Hundeliebe #GoldenRetriever #GassiZeit #DogMoment #PfotenGlück",
+    "subtopic": "hunde"
+  },
+  "tiere-2": {
+    "image": "beitrag-tiere-03.webp",
+    "source": "schelmischer_gecko_mit_zungenblitz.png",
+    "caption": "Dieser winzige Gecko schaut uns an, als hätte er gerade das beste Geheimnis der Welt erfahren. Diese großen Augen und die kleine Zunge! 🦎",
+    "question": "Findet ihr Geckos eher süß oder faszinierend?",
+    "hashtags": "#Gecko #ReptilienLiebe #MiniDrache #Tierfotografie #KleineEntdecker",
+    "subtopic": "reptilien"
+  },
+  "tiere-3": {
+    "image": "beitrag-tiere-04.webp",
+    "source": "a_crisp_photorealistic_warmly_lit_outdoor_scene.png",
+    "caption": "Ein leiser Moment am Stall: Die Reiterin lehnt sich an ihr Pferd, und für ein paar Sekunden ist der ganze Alltag weit weg. Manchmal sagt eine Umarmung mehr als tausend Worte. 🐴",
+    "question": "Was ist euer schönster Moment mit einem Pferd?",
+    "hashtags": "#Pferdeliebe #StallZeit #Pferdefreundschaft #EquestrianLife #HerzensMoment",
+    "subtopic": "pferde"
+  },
+  "tiere-4": {
+    "image": "beitrag-tiere-05.webp",
+    "source": "neugieriger_esel_im_abendlicht.png",
+    "caption": "Diese Ohren! Der Esel bleibt mitten auf dem Weg stehen und schaut, als würde er uns gleich eine ziemlich wichtige Frage stellen. 🫏",
+    "question": "Wie würdet ihr diesen neugierigen Esel nennen?",
+    "hashtags": "#EselLiebe #LongEars #TierMomente #BauernhofLeben #HerzensTier",
+    "subtopic": "esel"
+  },
+  "tiere-5": {
+    "image": "beitrag-tiere-06.webp",
+    "source": "hühnersturm_ums_futter_im_bauernhof.png",
+    "caption": "Sobald es etwas zu picken gibt, verwandelt sich die Hühnergruppe in eine kleine Rennmannschaft. Und jede scheint überzeugt: Sie war zuerst da! 🐔",
+    "question": "Welcher Henne würdet ihr die Rolle als Chefin geben?",
+    "hashtags": "#HühnerLiebe #HühnerBande #FarmLife #TierHumor #BauernhofMomente",
+    "subtopic": "huehner"
+  },
+  "tiere-6": {
+    "image": "beitrag-tiere-07.webp",
+    "source": "springender_kaninchenmoment_im_wohnzimmer.png",
+    "caption": "Vier Pfoten kurz in der Luft, die Ohren fliegen mit – dieses Kaninchen hat gerade eindeutig seinen Energie-Moment. Danach gibt’s bestimmt wieder Kuschelpause. 🐰",
+    "question": "Machen eure Kaninchen auch plötzlich solche Freudensprünge?",
+    "hashtags": "#KaninchenLiebe #BunnyZoomies #HopHop #PetMoments #FlauschAlarm",
+    "subtopic": "kaninchen"
+  },
+  "tiere-7": {
+    "image": "beitrag-tiere-08.webp",
+    "source": "a_close_up_realistic_photo_of_a_small_pet_hamster.png",
+    "caption": "Der Hamster hat heute ganz offensichtlich einen Trainingsplan: Laufrad an, Backen voll, alle anderen dürfen zuschauen. 🐹",
+    "question": "Sind eure kleinen Mitbewohner*innen abends auch so aktiv?",
+    "hashtags": "#HamsterLiebe #HamsterWheel #MiniSportler #KleintierLiebe #NachtAktiv",
+    "subtopic": "hamster"
+  },
+  "tiere-8": {
+    "image": "beitrag-tiere-09.webp",
+    "source": "a_hyper_realistic_close_up_slightly_wide_angle_p.png",
+    "caption": "Der Kühlschrank geht auf und da ist sofort jemand zur Stelle. Dieses Meerschweinchen hat offenbar sehr genaue Vorstellungen davon, wann Snackzeit ist. 🥕",
+    "question": "Welche Leckerei bringt eure Meerschweinchen sofort zum Quieken?",
+    "hashtags": "#Meerschweinchen #WheekWheek #SnackTime #KleintierLiebe #SüßeTiere",
+    "subtopic": "meerschweinchen"
+  },
+  "tiere-9": {
+    "image": "beitrag-tiere-10.webp",
+    "source": "flauschige_kleintiergruppe_im_kuschelnest.png",
+    "caption": "Weiches Fell, große Ohren und lauter neugierige Knopfaugen: Bei diesen kleinen Fellnasen weiß man gar nicht, wen man zuerst anschauen soll. 🥹",
+    "question": "Welches Tier auf dem Bild ist für euch der heimliche Star?",
+    "hashtags": "#Chinchilla #FlauschAlarm #Kleintiere #CuteAnimalClub #Tierliebe",
+    "subtopic": "chinchilla"
+  },
+  "tiere-10": {
+    "image": "beitrag-tiere-11.webp",
+    "source": "smaragdgrüne_schlange_im_seerosenteich.png",
+    "caption": "Schaut euch dieses Muster an! Die grüne Schlange liegt beinahe unsichtbar zwischen den Blättern. So viel Eleganz auf so wenig Raum. 🐍",
+    "question": "Würdet ihr sie im Grünen auf den ersten Blick entdecken?",
+    "hashtags": "#Schlangen #Reptilien #NatureCloseUp #WildlifeLove #TierWissen",
+    "subtopic": "reptilien"
+  },
+  "tiere-11": {
+    "image": "beitrag-tiere-12.webp",
+    "source": "a_realistic_close_up_outdoor_photo_of_a_young_dog.png",
+    "caption": "Manchmal braucht es gar kein großes Abenteuer: ein ruhiger Weg, neue Gerüche und eine Person, die sich Zeit nimmt. Genau solche Momente tun vielen Hunden gut. 🐕",
+    "question": "Wer von euch würde gern einmal bei einem Tierheim-Spaziergang helfen?",
+    "hashtags": "#TierheimHunde #GassiHelfen #Tierschutz #Hundeglück #VierPfoten",
+    "subtopic": "hunde"
+  },
+  "tiere-12": {
+    "image": "beitrag-tiere-13.webp",
+    "source": "a_realistic_close_up_indoor_pet_photo_in_warm_nat.png",
+    "caption": "Das aufwendigste Katzenspielzeug? Offenbar ein ganz gewöhnlicher Karton. Diese kleine Samtpfote schaut heraus, als hätte sie gerade ihr Traumschloss bezogen. 📦🐱",
+    "question": "Was ist der seltsamste Lieblingsplatz eurer Katze?",
+    "hashtags": "#KatzenLiebe #KartonKatze #MiezGlück #CatInABox #Fellnasen",
+    "subtopic": "katzen"
+  },
+  "tiere-13": {
+    "image": "beitrag-tiere-14.webp",
+    "source": "a_sharp_realistic_high_quality_photo_of_a_joyful.png",
+    "caption": "Ball entdeckt, Ohren im Wind, und schon startet der nächste Sprint durch den Garten. Dieser Hund sieht aus, als hätte er gerade den besten Nachmittag überhaupt. 🐕🎾",
+    "question": "Was macht eurem Hund beim Spielen am meisten Spaß?",
+    "hashtags": "#Hundespiel #BallLiebe #GoldenRetriever #DogZoomies #PfotenPower",
+    "subtopic": "hunde"
+  },
+  "tiere-14": {
+    "image": "beitrag-tiere-15.webp",
+    "source": "a_realistic_photographic_scene_of_an_outdoor_eques.png",
+    "caption": "Kurz vor der Landung über dem Hindernis: Pferd und Reiterin wirken wie ein eingespieltes Team. Hinter so einer Sekunde stecken unglaublich viele Übungsrunden. 🐎",
+    "question": "Was begeistert euch mehr: Springreiten oder Dressur?",
+    "hashtags": "#Springreiten #Pferdesport #Equestrian #TeamPferd #Reittraining",
+    "subtopic": "pferde"
+  },
+  "tiere-15": {
+    "image": "beitrag-tiere-16.webp",
+    "source": "a_crisp_realistic_high_resolution_outdoor_wildli.png",
+    "caption": "Dichtes Gefieder, kleine Flügel und ein erstaunlich entschlossener Gang: Pinguine wirken gleichzeitig elegant und unfassbar knuffig. 🐧",
+    "question": "Was würdet ihr über Pinguine am liebsten einmal lernen?",
+    "hashtags": "#Pinguine #Wildtiere #TierWissen #NaturEntdecken #WildlifeMoments",
+    "subtopic": "wildtiere"
+  },
+  "kino-0": {
+    "image": "beitrag-kino-01.webp",
+    "source": "Regenlicht und digitale Schatten(1).png",
+    "caption": "🎬 OFFLINE | Thriller\n📱 Eine Nachricht mitten in der Nacht. Die 17-jährige Alina merkt, dass jemand jeden ihrer Schritte kennt. Als ihre beste Freundin verschwindet, beginnt ein gefährliches Spiel zwischen digitaler und realer Welt. Wem kann sie noch vertrauen? 👀 Würdest du diesen Thriller ansehen? Schreib deine Theorie oder deine spoilerfreie Bewertung!",
+    "question": "👀 Würdest du diesen Thriller ansehen? Schreib deine Theorie oder deine spoilerfreie Bewertung!",
+    "hashtags": "#Offline #Psychothriller #Mystery #DigitalesLeben #Kinoabend",
+    "subtopic": "thriller",
+    "title": "OFFLINE"
+  },
+  "kino-1": {
+    "image": "beitrag-kino-02.webp",
+    "source": "60 Sekunden_ Dächer im Sprint.png",
+    "caption": "🎬 60 SEKUNDEN | Action\n⏱️ Parkour-Talent Malik filmt zufällig ein Verbrechen. Als er selbst zur Zielscheibe wird, bleiben ihm nur 60 Sekunden, um das entscheidende Video in Sicherheit zu bringen. Eine rasante Jagd über die Dächer der Stadt beginnt. 🔥 Team Action? Bewerte den Film von 1 bis 5 Sternen und sag uns, warum!",
+    "question": "🔥 Team Action? Bewerte den Film von 1 bis 5 Sternen und sag uns, warum!",
+    "hashtags": "#60Sekunden #Actionfilm #Parkour #Nervenkitzel #MovieNight",
+    "subtopic": "action",
+    "title": "60 SEKUNDEN"
+  },
+  "kino-2": {
+    "image": "beitrag-kino-03.webp",
+    "source": "Signal 09_ Nicht allein.png",
+    "caption": "🎬 SIGNAL 09 | Science-Fiction\n🪐 Auf einer Raumstation empfängt die junge Technikerin Yuna ein Signal von einem scheinbar unbewohnten Planeten. Als sie darin ihren eigenen Namen hört, beginnt sie an der Mission zu zweifeln. Was wartet dort draußen auf sie? 🚀 Würdest du auf das Signal antworten? Teile deine Theorie und deine Filmkritik!",
+    "question": "🚀 Würdest du auf das Signal antworten? Teile deine Theorie und deine Filmkritik!",
+    "hashtags": "#Signal09 #SciFi #Weltraum #Mystery #Kinofilm",
+    "subtopic": "scifi",
+    "title": "SIGNAL 09"
+  },
+  "kino-3": {
+    "image": "beitrag-kino-04.webp",
+    "source": "Klassenzimmer 13_ Die verbotene Tür.png",
+    "caption": "🎬 KLASSENZIMMER 13 | Horror\n🚪 Nach Schulschluss hört Emil Stimmen aus einem seit 30 Jahren verschlossenen Klassenzimmer. Am nächsten Morgen entdeckt er seinen Namen auf einer alten Klassenliste. Als die Tür plötzlich offen steht, beginnt ein Albtraum. 😱 Traust du dich ins Klassenzimmer 13? Hinterlasse deine spoilerfreie Horror-Rezension!",
+    "question": "😱 Traust du dich ins Klassenzimmer 13? Hinterlasse deine spoilerfreie Horror-Rezension!",
+    "hashtags": "#Klassenzimmer13 #Horrorfilm #Grusel #Mystery #HorrorNight",
+    "subtopic": "horror",
+    "title": "KLASSENZIMMER 13"
+  },
+  "kino-4": {
+    "image": "beitrag-kino-05.webp",
+    "source": "Sommer ohne Plan am Abend(1).png",
+    "caption": "🎬 SOMMER OHNE PLAN | Romantik\n☀️ Amina hat klare Zukunftspläne, Finn lebt lieber spontan. Als sich die beiden auf einem Festival begegnen, beginnt ein Sommer voller Musik, Abenteuer und unerwarteter Gefühle. Doch der Abschied rückt immer näher. 💛 Würdest du für die Liebe deine Pläne ändern? Schreib deine Meinung und bewerte den Film!",
+    "question": "💛 Würdest du für die Liebe deine Pläne ändern? Schreib deine Meinung und bewerte den Film!",
+    "hashtags": "#SommerOhnePlan #ComingOfAge #Romantik #Sommerfilm #KinoLiebe",
+    "subtopic": "romcom",
+    "title": "SOMMER OHNE PLAN"
+  },
+  "kino-5": {
+    "image": "beitrag-kino-06.webp",
+    "source": "Absolut nicht geplant_ Einkaufswagen-Chaos.png",
+    "caption": "🎬 ABSOLUT NICHT GEPLANT | Komödie\n😂 Fünf Freund*innen, eine Überraschungsparty und ein Plan, der eigentlich nicht schiefgehen kann. Doch plötzlich fehlen die Geburtstagstorte, ein Haustier und ein geliehener Kleinbus. Aus einem entspannten Nachmittag wird das Chaos ihres Lebens. 🍿 Markiere gedanklich deine Chaos-Crew: Wer wäre welche Figur? Schreib auch deine Filmkritik!",
+    "question": "🍿 Markiere gedanklich deine Chaos-Crew: Wer wäre welche Figur? Schreib auch deine Filmkritik!",
+    "hashtags": "#AbsolutNichtGeplant #Comedy #Freundschaft #Chaos #MovieNight",
+    "subtopic": "comedy",
+    "title": "ABSOLUT NICHT GEPLANT"
+  },
+  "kino-6": {
+    "image": "beitrag-kino-07.webp",
+    "source": "Die letzte Hüterin_ Magie der Ruinen.png",
+    "caption": "🎬 DIE LETZTE HÜTERIN | Fantasy\n✨ Die junge Elara entdeckt, dass sie eine uralte Sprache der Natur versteht. Als eine dunkle Macht ihr Reich bedroht, muss sie die Geheimnisse verlassener Ruinen entschlüsseln. Doch jede Anwendung ihrer Magie fordert einen Preis. 🌿 Welche magische Fähigkeit würdest du wählen? Verrate es und hinterlasse deine Fantasy-Filmkritik!",
+    "question": "🌿 Welche magische Fähigkeit würdest du wählen? Verrate es und hinterlasse deine Fantasy-Filmkritik!",
+    "hashtags": "#DieLetzteHüterin #Fantasy #Magie #Abenteuer #Kinowelt",
+    "subtopic": "fantasy",
+    "title": "DIE LETZTE HÜTERIN"
+  },
+  "kino-7": {
+    "image": "beitrag-kino-08.webp",
+    "source": "Letzter Wurf_ Basketball-Drama.png",
+    "caption": "🎬 LETZTER WURF | Sportdrama\n🏀 Die 17-jährige Basketballerin Nika trainiert für das wichtigste Turnier ihres Lebens. Doch ein Streit im Team gefährdet ihren großen Traum. Als das entscheidende Spiel näher rückt, muss sie herausfinden, was echter Teamgeist bedeutet. 💪 Was zählt mehr: Sieg oder Zusammenhalt? Diskutiere mit und gib deine Bewertung ab!",
+    "question": "💪 Was zählt mehr: Sieg oder Zusammenhalt? Diskutiere mit und gib deine Bewertung ab!",
+    "hashtags": "#LetzterWurf #Basketball #Sportfilm #Teamgeist #Kinodrama",
+    "subtopic": "sportdrama",
+    "title": "LETZTER WURF"
+  },
+  "kino-8": {
+    "image": "beitrag-kino-09.webp",
+    "source": "Dystopisches Sci-Fi-Poster_ Level Null.png",
+    "caption": "🎬 LEVEL NULL | Dystopie\n🔴 In einer überwachten Zukunft bestimmt ein digitaler Punktestand über Schule, Arbeit und Freiheit. Als Alex über Nacht alle Punkte verliert, wird aus dem Alltag ein Kampf gegen das System. Wer entscheidet, was ein Mensch wert ist? 👁️ Würdest du dich dem System widersetzen? Diskutiere und bewerte den Film spoilerfrei!",
+    "question": "👁️ Würdest du dich dem System widersetzen? Diskutiere und bewerte den Film spoilerfrei!",
+    "hashtags": "#LevelNull #Dystopie #Überwachung #Algorithmen #SciFi",
+    "subtopic": "dystopie",
+    "title": "LEVEL NULL"
+  },
+  "kino-9": {
+    "image": "beitrag-kino-10.webp",
+    "source": "Lauter als Angst_ Finde deine Stimme.png",
+    "caption": "🎬 LAUTER ALS ANGST | Musikdrama\n🎤 Die 16-jährige Mira veröffentlicht heimlich ihre eigenen Songs. Als einer davon viral geht, steht sie plötzlich vor der Chance ihres Lebens: einem Auftritt vor Tausenden Menschen. Doch der Weg ins Rampenlicht verlangt mehr als Talent. 🎶 Würdest du dich auf die Bühne trauen? Teile deine Meinung und deine Filmrezension!",
+    "question": "🎶 Würdest du dich auf die Bühne trauen? Teile deine Meinung und deine Filmrezension!",
+    "hashtags": "#LauterAlsAngst #Musikfilm #Selbstvertrauen #Soundtrack #Kinodrama",
+    "subtopic": "musikdrama",
+    "title": "LAUTER ALS ANGST"
+  },
+  "kino-10": {
+    "image": "beitrag-kino-11.webp",
+    "source": "Der letzte Code_ Museumsraub.png",
+    "caption": "🎬 DER LETZTE CODE | Crime & Rätsel\n🔐 Noah, Zuri und ihre Freundin Liv entdecken einen verschlüsselten Hinweis auf einen verschollenen Kunstschatz. Die Spur führt in ein Museum und zu einem geheimnisvollen Tresor. Doch sie sind nicht die Einzigen, die den Code knacken wollen. 🔎 Hast du eine Theorie zum letzten Code? Schreib sie ohne Spoiler und bewerte den Film!",
+    "question": "🔎 Hast du eine Theorie zum letzten Code? Schreib sie ohne Spoiler und bewerte den Film!",
+    "hashtags": "#DerLetzteCode #Mystery #HeistFilm #Rätsel #Kinoabend",
+    "subtopic": "heist",
+    "title": "DER LETZTE CODE"
+  },
+  "kino-11": {
+    "image": "beitrag-kino-12.webp",
+    "source": "Nach dem Morgen_ Hoffnung im Verfall.png",
+    "caption": "🎬 NACH DEM MORGEN | Survival\n⚡ Ein gewaltiger Stromausfall legt eine ganze Region lahm. Inmitten einer zunehmend verwüsteten Stadt suchen Jaro und drei Freund*innen nach ihren Familien. Ohne verlässliche Versorgung müssen sie entscheiden, wem sie noch vertrauen können. 🌆 Was würdest du zuerst tun? Teile deine Überlebensidee und deine spoilerfreie Filmkritik!",
+    "question": "🌆 Was würdest du zuerst tun? Teile deine Überlebensidee und deine spoilerfreie Filmkritik!",
+    "hashtags": "#NachDemMorgen #Survival #Blackout #Katastrophenfilm #Kino",
+    "subtopic": "survival",
+    "title": "NACH DEM MORGEN"
+  },
+  "sport-0": {
+    "image": "beitrag-sport-01.webp",
+    "source": "Pskate",
+    "caption": "Zehn Fehlversuche, dann endlich der Trick. Dieses Gefühl versteht nur, wer mal üben musste."
+  },
+  "sport-1": {
+    "image": "beitrag-sport-02.webp",
+    "source": "KI-generiertes Turmsprungmotiv, 21.11.2026",
+    "caption": "Oben auf dem Sprungturm wirkt alles höher. Der Moment vor dem Absprung ist jedes Mal besonders."
+  },
+  "sport-2": {
+    "image": "beitrag-sport-03.webp",
+    "source": "new user sport image: a_high_energy_ultra_realistic_action_sports_photo.png",
+    "caption": "Ein Tor, eine enge Linie, Schnee fliegt über die Ski. Im Slalom entscheidet nicht nur der Mut zum Tempo, sondern auch, wie sauber du den Schwung triffst.",
+    "question": "Schon mal ein Skirennen gefahren?",
+    "hashtags": "#SkiAlpin #Slalom #Skirennen #Renntraining #Wintersport",
+    "subtopic": "slalom"
+  },
+  "sport-3": {
+    "image": "beitrag-sport-04.webp",
+    "source": "new user sport image: dynamischer_snowboard_carve_im_pulverschnee.png",
+    "caption": "Dieser Moment, wenn die Kante greift und der Schnee seitlich hochspritzt. Der Turn fühlt sich schnell an, obwohl eigentlich die Kontrolle den Unterschied macht.",
+    "question": "Lieber Carven auf der Piste oder Tricks im Park?",
+    "hashtags": "#Snowboarding #Carving #SnowLife #Bergsport #WinterVibes",
+    "subtopic": "snowboard"
+  },
+  "sport-4": {
+    "image": "beitrag-sport-05.webp",
+    "source": "new user sport image: dramatischer_volleyballblock_über_dem_netz.png",
+    "caption": "Der Angriff kommt, zwei Spielerinnen springen zum Block – und für einen Augenblick schaut das ganze Team nur auf den Ball. Genau diese Sekunden machen ein Match so spannend.",
+    "question": "Was feierst du mehr: einen starken Block oder einen perfekten Angriff?",
+    "hashtags": "#Volleyball #Matchday #Teamspirit #Vereinssport #Block",
+    "subtopic": "volleyball"
+  },
+  "sport-5": {
+    "image": "beitrag-sport-06.webp",
+    "source": "new user sport image: sprinterin_im_goldenen_morgenlicht.png",
+    "caption": "Noch ein Atemzug, dann geht es aus dem Startblock. Vor dem Sprint zählen Fokus, Haltung und ein sauberer Abdruck – danach bleibt keine Zeit mehr zum Nachdenken.",
+    "question": "Trainierst du lieber Sprint, Sprung oder Ausdauer?",
+    "hashtags": "#Leichtathletik #Sprint #Startblock #TrackAndField #Training",
+    "subtopic": "sprint"
+  },
+  "sport-6": {
+    "image": "beitrag-sport-07.webp",
+    "source": "new user sport image: a_dynamic_cinematic_outdoor_urban_parkour_scene_d.png",
+    "caption": "Ein Arm stützt, die Beine fliegen über die Kante, die Landung kommt gleich. Was auf dem Foto mühelos aussieht, braucht Timing, Körperspannung und ziemlich viele Versuche.",
+    "question": "Welches Hindernis würdest du als Erstes ausprobieren?",
+    "hashtags": "#Parkour #Freerunning #UrbanSports #Movement #BodyControl",
+    "subtopic": "parkour"
+  },
+  "sport-7": {
+    "image": "beitrag-sport-08.webp",
+    "source": "new user sport image: a_dynamic_photorealistic_close_up_sports_scene_at.png",
+    "caption": "Pause am Beckenrand nach den letzten Bahnen. Die Schultern sind müde, das Wasser ist noch in Bewegung – und die nächste Trainingsrunde wartet schon.",
+    "question": "Welche Lage schwimmst du am liebsten?",
+    "hashtags": "#Schwimmen #SwimTraining #PoolLife #Vereinssport #Bahnenziehen",
+    "subtopic": "swim"
+  },
+  "sport-8": {
+    "image": "beitrag-sport-09.webp",
+    "source": "new user sport image: a_high_detail_cinematic_sports_photo_of_a_soccer.png",
+    "caption": "Noch einen Kontakt am Ball, bevor der Gegenspieler herankommt. In diesem Zweikampf entscheidet der erste Schritt darüber, ob Platz für den nächsten Pass entsteht.",
+    "question": "Was ist schwieriger: den Ball behaupten oder den Passweg sehen?",
+    "hashtags": "#Fußball #Zweikampf #FootballTraining #Matchday #TeamSport",
+    "subtopic": "football"
+  },
+  "sport-9": {
+    "image": "beitrag-sport-10.webp",
+    "source": "new user sport image: akrobatischer_teamspass_in_der_turnhalle.png",
+    "caption": "Vorne hält eine Turnerin ihre Stützfigur, hinten wird weitergeübt und angefeuert. Die schwierigsten Moves sehen oft erst locker aus, wenn sehr viel Training dahintersteckt.",
+    "question": "Welche Übung würdest du gern einmal schaffen?",
+    "hashtags": "#Kunstturnen #Akrobatik #Gymnastics #TeamTraining #BodyControl",
+    "subtopic": "gymnastics"
+  },
+  "sport-10": {
+    "image": "beitrag-sport-11.webp",
+    "source": "new user sport image: a_dynamic_realistic_outdoor_basketball_scene_shot.png",
+    "caption": "Der Ball bleibt tief, die Verteidigung rückt nach und der Korb ist schon im Blick. Beim 1-gegen-1 können ein Tempowechsel und der richtige erste Schritt alles verändern.",
+    "question": "Lieber Streetball draußen oder ein Match in der Halle?",
+    "hashtags": "#Basketball #Streetball #OneOnOne #CourtLife #TeamSport",
+    "subtopic": "basketball"
+  },
+  "sport-11": {
+    "image": "beitrag-sport-12.webp",
+    "source": "new user sport image: a_dynamic_outdoor_soccer_scene_at_golden_hour_on_a.png",
+    "caption": "Drei Spielerinnen, ein Ball, kaum Platz. Wer hier die Übersicht behält, findet vielleicht genau die Lücke für den nächsten Spielzug.",
+    "question": "Würdest du dribbeln oder direkt abspielen?",
+    "hashtags": "#Mädchenfußball #Fußball #Teamwork #Matchday #GirlsInSport",
+    "subtopic": "womensfootball"
+  },
+  "sport-12": {
+    "image": "beitrag-sport-13.webp",
+    "source": "new user sport image: a_sharp_dynamic_indoor_rock_climbing_bouldering_g.png",
+    "caption": "Die Finger sind schon voller Chalk, der nächste Griff ist knapp außer Reichweite. Beim Bouldern geht es nicht nur um Kraft – oft löst die richtige Bewegung das Problem.",
+    "question": "Bist du Team Kraft oder Team Technik an der Wand?",
+    "hashtags": "#Bouldern #Klettern #ClimbingGym #BoulderProblem #GripStrength",
+    "subtopic": "bouldering"
+  },
+  "sport-13": {
+    "image": "beitrag-sport-14.webp",
+    "source": "new user sport image: a_sharp_cinematic_realistic_sports_action_photo.png",
+    "caption": "Auf der Matte ist gerade Bodenarbeit angesagt: Griff halten, Gewicht verlagern und die Position sichern. Beim Judo entscheiden kleine Bewegungen oft mehr als rohe Kraft.",
+    "question": "Liegt dir Standkampf oder Bodenarbeit mehr?",
+    "hashtags": "#Judo #NeWaza #Kampfsport #Tatami #JudoTraining",
+    "subtopic": "judo"
+  },
+  "umwelt-0": {
+    "image": "beitrag-umwelt-01.webp",
+    "source": "Klimastreik vor Linzer Stadtkulisse(1).png",
+    "caption": "🌍✊ Unsere Zukunft ist keine Verhandlungsmasse! Mia, Leon und ihre Freund*innen demonstrieren in Linz für konsequenten Klimaschutz. Während die Erderwärmung weitergeht, reichen politische Versprechen allein nicht aus. 🔥 Wir brauchen überprüfbare Maßnahmen statt endloser Ankündigungen. 💚 Misch dich ein, informiere dich und setze dich für unsere Zukunft ein!",
+    "question": "💬 Fühlst du dich mit deinen Klimasorgen von der Politik ernst genommen? Welche konkrete Maßnahme muss JETZT umgesetzt werden? Schreib es in die Kommentare! 👇",
+    "hashtags": "#Klimastreik #Klimaschutz #JugendStimme #UnsereZukunft #FeedLab",
+    "subtopic": "klimastreik"
+  },
+  "umwelt-1": {
+    "image": "beitrag-umwelt-02.webp",
+    "source": "Jugendlicher Umweltprotest im Linzer Park(1).png",
+    "caption": "🌳🚧 Ein alter Baum ist in Minuten gefällt – aber nicht in Minuten ersetzt. Lea, Jonas und andere Jugendliche protestieren gegen Eingriffe in Grünflächen rund um ein Straßenbauprojekt in Linz. 🌿 Bäume kühlen die Stadt, bieten Lebensraum und schützen vor Hitze. 🚗 Mobilität ist wichtig, doch warum müssen Natur und Verkehr immer gegeneinander ausgespielt werden? 💚 Fordere nachhaltige Planung und echte Alternativen!",
+    "question": "💬 Mehr Straßen oder mehr Grün? Wie sollte die Politik bei umstrittenen Bauprojekten entscheiden – und wie viel Mitspracherecht brauchen junge Menschen? 👇",
+    "hashtags": "#Linz #A26 #Baumschutz #Stadtentwicklung #FeedLab",
+    "subtopic": "strassenbau"
+  },
+  "umwelt-2": {
+    "image": "beitrag-umwelt-03.webp",
+    "source": "Gemeinsamer Einsatz beim Hochwasser(1).png",
+    "caption": "🌊🏠 Was, wenn deine Straße morgen unter Wasser steht? Sarah und Jonas helfen nach einem Hochwasser beim Stapeln von Sandsäcken. Starkregen kann Häuser und Existenzen bedrohen; durch die Erwärmung kann die Atmosphäre mehr Feuchtigkeit aufnehmen. ⚠️ Versiegelte Böden verschärfen vielerorts den Oberflächenabfluss. 💚 Wir brauchen Klimaschutz, Platz für Wasser und wirksame Vorsorge – nicht nur nach der nächsten Katastrophe!",
+    "question": "💬 Gibt es bei dir Hochwasserschutz? Handeln Verantwortliche früh genug oder erst, wenn etwas passiert? Was müsste sich ändern? 👇",
+    "hashtags": "#Hochwasser #Starkregen #Klimaanpassung #Umweltschutz #FeedLab",
+    "subtopic": "hochwasser"
+  },
+  "umwelt-3": {
+    "image": "beitrag-umwelt-04.webp",
+    "source": "Hitzepause an der Straßenbahnhaltestelle(1).png",
+    "caption": "🥵☀️ Stell dir vor, du wartest bei brütender Hitze ohne ausreichenden Schatten auf die Straßenbahn. Mia und Ben erleben, wie aufgeheizter Asphalt den Sommer zur Belastung macht. 🌡️ Städte speichern Wärme; besonders gefährdet sind unter anderem ältere und gesundheitlich vorbelastete Menschen. 🌳 Mehr Bäume, Trinkbrunnen und entsiegelte Flächen können helfen. 💚 Fordere lebenswerte, klimaangepasste Städte!",
+    "question": "💬 Was fehlt an deiner Haltestelle: Schatten, Wasser oder Grün? Sollte die Politik dafür Parkplätze umgestalten? Diskutier mit! 👇",
+    "hashtags": "#Stadthitze #MehrBäume #Klimaanpassung #Hitzeschutz #FeedLab",
+    "subtopic": "stadthitze"
+  },
+  "umwelt-4": {
+    "image": "beitrag-umwelt-05.webp",
+    "source": "Wanderin mit Blick auf Gletscher und Alpen(1).png",
+    "caption": "🏔️🧊 Diese Aussicht ist wunderschön – und ein Warnsignal. Lena blickt über eine Alpenlandschaft, in der sich das Gletschereis zurückzieht. Österreichs Gletscher verlieren seit Jahrzehnten Masse. Das verändert Lebensräume, Tourismus und den Wasserhaushalt. 💧 Was einmal abgeschmolzen ist, kommt nicht einfach zurück. 💚 Klimaschutz bedeutet auch, unsere Alpen für kommende Generationen zu bewahren!",
+    "question": "💬 Hast du schon einen Gletscher gesehen? Welche Verantwortung hat die Politik beim Schutz der Alpen – und was würdest du selbst verändern? 👇",
+    "hashtags": "#Gletscher #Alpen #Klimawandel #ZukunftSchützen #FeedLab",
+    "subtopic": "gletscher"
+  },
+  "umwelt-5": {
+    "image": "beitrag-umwelt-06.webp",
+    "source": "Sonniger Snowboardtag am Skihang(1).png",
+    "caption": "⛷️🌱 Skibrille auf – aber wo ist der Schnee? Sophie, Lukas und Emma sitzen an einer Piste, umgeben von teilweise grünen Hängen. ❄️ Wärmere Winter stellen viele Skigebiete vor Probleme. Beschneiung braucht Wasser und Energie und funktioniert nicht bei jeder Temperatur. 🎿 Arbeitsplätze und Wintersporttradition sind wichtig – genauso wie die Natur. 💚 Setze dich für klimaverträglichen Tourismus und verantwortungsvolle Lösungen ein!",
+    "question": "💬 Sollten Skigebiete weiter auf Kunstschnee setzen oder stärker ganzjährige Angebote entwickeln? Was sollte die Politik fördern? 👇",
+    "hashtags": "#Wintersport #Schneemangel #Alpentourismus #Klimaschutz #FeedLab",
+    "subtopic": "schneemangel"
+  },
+  "umwelt-6": {
+    "image": "beitrag-umwelt-07.webp",
+    "source": "Warten im Abendlicht am Bahnsteig(1).png",
+    "caption": "🚆🚲 Frei sein ohne eigenes Auto – geht das bei dir? Anna und Max warten mit dem Rad am Bahnhof. Gerade am Land entscheiden Fahrpläne darüber, wie unabhängig Jugendliche wirklich sind. 🚗 Zu viele Autofahrten belasten Klima und Straßen; zugleich brauchen Menschen verlässliche Alternativen. 💚 Gute Öffis, sichere Radwege und leistbare Tickets sollten kein Luxus sein. Fordere Mobilität für alle!",
+    "question": "💬 Wann fährt bei dir der letzte Bus oder Zug? Investiert die Politik genug in Verbindungen außerhalb der Städte? Berichte aus deinem Ort! 👇",
+    "hashtags": "#Öffis #MobilitätAmLand #Radfahren #Klimafreundlich #FeedLab",
+    "subtopic": "oeffis"
+  },
+  "umwelt-7": {
+    "image": "beitrag-umwelt-08.webp",
+    "source": "Wanderer am Windpark-Ausblick(1).png",
+    "caption": "🌬️⚡ Wie sieht deine Energiezukunft aus? Lena und Tobias betrachten Windräder in der Landschaft. Windkraft erzeugt Strom ohne die laufende Verbrennung fossiler Energieträger. 🌿 Gleichzeitig zählen Standortwahl, Artenschutz und Interessen der Anwohner*innen. Die Energiewende braucht Lösungen statt Stillstand. 💚 Setze dich für gut geplante erneuerbare Energie ein!",
+    "question": "💬 Würdest du Windräder in deiner Gemeinde befürworten? Wo sollte die Politik schneller entscheiden – und welche Naturschutzregeln sind dir wichtig? 👇",
+    "hashtags": "#Windkraft #Energiewende #ErneuerbareEnergie #Naturschutz #FeedLab",
+    "subtopic": "windkraft"
+  },
+  "umwelt-8": {
+    "image": "beitrag-umwelt-09.webp",
+    "source": "Freundinnen beim Stöbern im Vintage-Laden(1).png",
+    "caption": "👕♻️ Neue Lieblingsjacke – ohne Neukauf! Emma und ihre Freundin stöbern im Secondhand-Shop. Fast Fashion kann durch kurze Trendzyklen Textilabfälle und hohen Rohstoff-, Wasser- und Energieverbrauch fördern. 🌍 Jedes Kleidungsstück länger zu tragen, zu tauschen oder zu reparieren macht einen Unterschied. 💚 Stil braucht nicht ständig neue Ware!",
+    "question": "💬 Was war dein coolster Secondhand-Fund? Braucht Fast Fashion strengere Regeln durch die Politik oder beginnen Veränderungen vor allem bei uns? 👇",
+    "hashtags": "#FastFashion #Secondhand #SlowFashion #NachhaltigerKonsum #FeedLab",
+    "subtopic": "fastfashion"
+  },
+  "umwelt-9": {
+    "image": "beitrag-umwelt-10.webp",
+    "source": "Jugendliche entdecken Wildblumen im Abendlicht(1).png",
+    "caption": "🐝🌼 Klein, aber unverzichtbar: Lena und Jonas entdecken eine Biene auf einer Wildblume. Viele Insekten bestäuben Pflanzen, doch Lebensraumverlust und intensive Landnutzung gefährden zahlreiche Arten. 🌾 Blühstreifen, vielfältige Landschaften und ein verantwortungsvoller Umgang mit Pflanzenschutzmitteln helfen. 💚 Schütze Artenvielfalt – auch in deinem Garten oder auf deinem Balkon!",
+    "question": "💬 Siehst du heute weniger Insekten als früher? Sollte die Politik strengere Schutzregeln machen oder Landwirt*innen stärker für Naturschutz fördern? 👇",
+    "hashtags": "#Artenvielfalt #Bienen #Biodiversität #Naturschutz #FeedLab",
+    "subtopic": "artenvielfalt"
+  },
+  "umwelt-10": {
+    "image": "beitrag-umwelt-11.webp",
+    "source": "Junge Naturforscherin untersucht Baumrinde.png",
+    "caption": "🌲🪲 Unser Wald sendet Warnsignale! Lena untersucht mit einer Lupe die auffälligen Fraßspuren unter einer Baumrinde; Jonas schaut genau hin. Solche Gänge können auf Borkenkäfer hinweisen. Trockenheit und Hitze schwächen besonders Fichten und erhöhen vielerorts das Risiko für starken Befall. ⚠️ Gehen ganze Bestände verloren, leiden Lebensräume und Schutzfunktionen des Waldes. 💚 Setze dich für widerstandsfähige Mischwälder und verantwortungsvolle Aufforstung ein!",
+    "question": "💬 Hast du schon vertrocknete oder abgestorbene Bäume in deiner Region bemerkt? Tut die Politik genug für klimafitte Wälder? Welche Maßnahmen forderst du? 👇",
+    "hashtags": "#WaldUnterStress #Borkenkäfer #Waldschutz #Klimaanpassung #FeedLab",
+    "subtopic": "waldstress"
+  },
+  "umwelt-11": {
+    "image": "beitrag-umwelt-12.webp",
+    "source": "Lagerfeuerabend am See bei Sonnenuntergang(1).png",
+    "caption": "🔥🌅 Ein Abend am See, ein Lagerfeuer und gute Gespräche: Für Mia, Paul und ihre Freund*innen wird plötzlich spürbar, wie wertvoll unberührte Natur ist. 🌿 Sauberes Wasser, intakte Wälder und vielfältige Lebensräume sind keine Selbstverständlichkeit. ⚠️ Müll, Trockenheit und rücksichtslose Nutzung können diese Orte gefährden. 💚 Nimm deinen Abfall wieder mit, respektiere Schutzgebiete und beachte örtliche Feuerverbote – besonders bei Waldbrandgefahr. Natur schützen heißt, solche Momente auch morgen noch erleben zu können!",
+    "question": "💬 Welchen Ort in der Natur möchtest du unbedingt bewahren? Was sollten wir selbst tun – und wofür sollte die Politik mehr Verantwortung übernehmen? 👇",
+    "hashtags": "#Naturverbundenheit #SeeLiebe #Naturschutz #LeaveNoTrace #FeedLab",
+    "subtopic": "naturverbundenheit"
+  },
+  "musik-0": {
+    "image": "beitrag-musik-01.webp",
+    "source": "Starte deine eigene Band(1).png",
+    "caption": "🎸 Eine Band braucht mehr als gute Musiker*innen: einen gemeinsamen Sound, verlässliche Proben und klare Zuständigkeiten. Legt für jede Probe ein konkretes Ziel fest und nehmt einen Durchlauf auf. Beim gemeinsamen Anhören fallen Timing und Zusammenspiel oft leichter auf. 💬 Welche Rolle würdest du in deiner Band übernehmen – und warum?",
+    "question": "",
+    "hashtags": "#Bandgründung #Bandprobe #Teamwork #Schulband #PopMusic",
+    "subtopic": "bandgruendung"
+  },
+  "musik-1": {
+    "image": "beitrag-musik-02.webp",
+    "source": "Songwriting_ Von der Idee zum Hit.png",
+    "caption": "✍️ Ein Popsong beginnt oft mit einer Melodie, einer Textzeile oder einem Gefühl. Die Strophe erzählt, der Refrain bündelt die zentrale Idee, eine Bridge kann einen Kontrast schaffen. Eine Hook kann auch ein instrumentales Motiv sein. Singe deinen Text laut: So merkst du, ob Silben und Betonung zur Melodie passen. 🎤 Challenge: Schreib eine eigene Hookline mit maximal acht Wörtern in die Kommentare!",
+    "question": "",
+    "hashtags": "#Songwriting #Hookline #Lyrics #EigeneMusik #PopMusic",
+    "subtopic": "songwriting"
+  },
+  "musik-2": {
+    "image": "beitrag-musik-03.webp",
+    "source": "Vom Bedroom-Studio zum Musikprofi(1).png",
+    "caption": "🎧 Eine DAW ist deine digitale Musikwerkstatt: Audio aufnehmen, MIDI bearbeiten und Spuren arrangieren. Ein Audio-Interface verbindet beispielsweise Mikrofon und Computer. Beim Mixing stimmst du die einzelnen Spuren ab, beim Mastering bearbeitest du den fertigen Mix für die Veröffentlichung. GarageBand, REAPER und Ableton Live sind Beispiele für DAWs; Plattform, Lizenz und Kosten unterscheiden sich.",
+    "question": "",
+    "hashtags": "#HomeStudio #DAW #Musikproduktion #Mixing #Mastering",
+    "subtopic": "homestudio"
+  },
+  "musik-3": {
+    "image": "beitrag-musik-04.webp",
+    "source": "Pop Music Insider_ Bühnenpräsenz rocken.png",
+    "caption": "🎤 Gute Bühnenpräsenz heißt nicht, ständig herumzuspringen. Bewegungen und Blickkontakt sollen zum Song passen. Probt auch Übergänge, Ansagen und das Ende eurer Setlist. Bei Lampenfieber helfen vertraute Abläufe, ruhiges Atmen und ein kurzes Warm-up. 🎶 Ein kleiner Fehler muss nicht den ganzen Auftritt ruinieren. 🔥 Was macht für dich eine unvergessliche Live-Performance aus?",
+    "question": "",
+    "hashtags": "#LivePerformance #Bühnenpräsenz #Lampenfieber #StagePresence #Bandlife",
+    "subtopic": "performance"
+  },
+  "musik-4": {
+    "image": "beitrag-musik-05.webp",
+    "source": "Pop Music Insider_ Hinter dem Sound.png",
+    "caption": "🎚️ Beim Soundcheck werden Eingangspegel, Klang und Monitor-Mixe abgestimmt. Die PA versorgt vor allem das Publikum, Monitore oder In-Ears die Musiker*innen. Rückkopplung entsteht, wenn ein verstärktes Signal erneut ins Mikrofon gelangt und sich aufschaukelt. Ein Stage Plot zeigt die Positionen auf der Bühne; eine Input List listet die benötigten Mischpultkanäle. 🔊 Gehörschutz und angemessene Lautstärke sind wichtig.",
+    "question": "",
+    "hashtags": "#Soundcheck #LiveSound #Tontechnik #StagePlot #Monitoring",
+    "subtopic": "tontechnik"
+  },
+  "musik-5": {
+    "image": "beitrag-musik-06.webp",
+    "source": "Popkonzert planen_ Die große Show-Checkliste.png",
+    "caption": "🎫 Ein gelungenes Konzert beginnt lange vor dem ersten Ton. Plant Location, Technik, Budget, Bewerbung und Verantwortlichkeiten. Ein Ablaufplan mit Aufbau, Soundcheck, Einlass und Auftritt verhindert Stress. Klärt mit den Verantwortlichen auch Sicherheit, nötige Genehmigungen und Musikrechte. 🎸 Ein realistischer Plan B gehört ebenfalls dazu. 💬 Wie würde dein eigenes Konzert aussehen? Verrate Motto, Location und Line-up!",
+    "question": "",
+    "hashtags": "#Konzertplanung #Eventmanagement #Schulkonzert #LiveMusik #Backstage",
+    "subtopic": "konzertplanung"
+  },
+  "musik-6": {
+    "image": "beitrag-musik-07.webp",
+    "source": "Neon-Pop-Guide_ Vom Song zum Release.png",
+    "caption": "🚀 Der fertige Song ist erst der Anfang. Für den Release brauchst du ein geeignetes Master, Cover, korrekte Credits und einen Veröffentlichungstermin. Distributoren wie DistroKid oder TuneCore können Musik an Streamingdienste liefern. Beachte Vertragsbedingungen, Rechte, Altersvorgaben und Gebühren. 📱 Probenclips und die Geschichte hinter dem Song können eine authentische Release-Kampagne ergänzen.",
+    "question": "",
+    "hashtags": "#SingleRelease #MusicMarketing #Streaming #IndependentArtist #NewMusic",
+    "subtopic": "release"
+  },
+  "musik-7": {
+    "image": "beitrag-musik-08.webp",
+    "source": "Deine Musik, deine Rechte(1).png",
+    "caption": "⚖️ Komposition und Songtext sind vom Recht an der konkreten Tonaufnahme zu unterscheiden. Credits dokumentieren Beiträge; Splits regeln vereinbarte Beteiligungen. AKM und austro mechana nehmen in Österreich unterschiedliche Rechte wahr. Bei Coverversionen, Samples und Remixen können je nach Nutzung weitere Freigaben nötig sein. 🎵 Schriftliche Absprachen helfen, spätere Konflikte zu vermeiden.",
+    "question": "",
+    "hashtags": "#Musikrecht #Urheberrecht #SongwritingCredits #AKM #MusicBusiness",
+    "subtopic": "musikrechte"
+  },
+  "musik-8": {
+    "image": "beitrag-musik-09.webp",
+    "source": "Made in Austria_ Pop-Borg Linz.png",
+    "caption": "🇦🇹 Österreichische Popmusik reicht von Indie und elektronischen Sounds bis zu Dialektpop. Der POP-Musikzweig am BORG Linz verbindet musikalische Praxis, Ensemblearbeit und eigene Ideen. Die im Motiv genannten Beispiele aus der Musikszene zeigen, wie unterschiedlich musikalische Wege sein können. 🎶 Live-Erfahrung, Zusammenarbeit und ein eigener Sound sind wertvolle Bausteine für Nachwuchsbands. 🎸 Welche österreichische Band inspiriert dich musikalisch – und was gefällt dir an ihrem Sound?",
+    "question": "",
+    "hashtags": "#AustrianMusic #PopBorgLinz #Nachwuchsbands #Musikszene #Österreich",
+    "subtopic": "austrianmusic"
+  },
+  "musik-9": {
+    "image": "beitrag-musik-10.webp",
+    "source": "Vom Beat zum Song_ Pop-Track-Guide.png",
+    "caption": "🎹 Ein Pop-Track wächst aus rhythmischen, melodischen und klanglichen Ideen. Ein Arrangement entscheidet, wann Instrumente einsetzen und wie sich Spannung entwickelt. Nach den Aufnahmen folgen Editing, Mixing und gegebenenfalls Mastering. Der Prozess ist nicht immer linear: Oft verändert eine neue Melodie den Beat oder den Text. 🎧 Feedback und verschiedene Demo-Versionen helfen bei der Weiterentwicklung.",
+    "question": "",
+    "hashtags": "#PopTrack #Beatmaking #Arrangement #Recording #Musikproduktion",
+    "subtopic": "poptrack"
+  },
+  "lifestyle-0": {
+    "image": "beitrag-lifestyle-01.webp",
+    "source": "Urbanes Freundetrio auf Graffiti-Treppen(2).png",
+    "caption": "👟 Baggy Jeans, Lederjacke oder Burgundy-Hoodie – drei Fits, drei komplett unterschiedliche Vibes. Ein guter Look braucht nicht zwingend ein teures Label. Welchen Fit würdest du tragen: links, Mitte oder rechts? 👀",
+    "question": "",
+    "hashtags": "#OOTD #Streetwear #SneakerStyle #BaggyJeans #LifestyleEdit",
+    "subtopic": "style",
+    "title": "OUTFIT CHECK",
+    "cta": "Welchen Fit würdest du tragen: links, Mitte oder rechts? 👀",
+    "comments": [
+      "Die Sambas links 😍",
+      "Burgundy ist einfach meine Farbe.",
+      "Der mittlere Fit ist clean.",
+      "Baggy Jeans sind so bequem ngl.",
+      "Meine beste Jacke ist secondhand.",
+      "Die Leo-Tasche macht den Look.",
+      "Warum tragen alle gerade dieselben Sneaker?",
+      "Links gewinnt für mich.",
+      "Marken sind mir komplett egal.",
+      "Die Weste in der Mitte ist nice.",
+      "Rechts würde ich genau so anziehen.",
+      "Endlich mal Outfits ohne Anzug-Vibes."
+    ]
+  },
+  "lifestyle-1": {
+    "image": "beitrag-lifestyle-02.webp",
+    "source": "Elegantes Schmuck-Flatlay mit Kaffeepause(2).png",
+    "caption": "✨ Chunky Hoops, gestapelte Ringe und feine Ketten: Gold und Silber zusammen können richtig gut aussehen. Gerade zu schlichten Fits macht Mixed Metal einiges her. 🤍",
+    "question": "",
+    "hashtags": "#Jewelry #MixedMetals #RingStack #GoldAndSilver #LifestyleEdit",
+    "subtopic": "schmuck",
+    "title": "GOLD OR SILVER?",
+    "cta": "",
+    "comments": [
+      "Team Silber forever 🤍",
+      "Die goldenen Creolen sind cute.",
+      "Ich mixe mittlerweile beides.",
+      "Meine Oma hat mir eine ähnliche Kette geschenkt.",
+      "Vergoldet heißt leider nicht massiv Gold.",
+      "Der breite Ring ist mein Favorit.",
+      "Modeschmuck reicht mir voll.",
+      "Bei manchen Ringen verfärben sich meine Finger 😭",
+      "Weniger Schmuck sieht bei mir besser aus.",
+      "Die kleine Sonnenkette ist süß.",
+      "Ich mag Edelstahl, hält bei mir gut.",
+      "Meine Uhr passt auch zu Goldschmuck."
+    ]
+  },
+  "lifestyle-2": {
+    "image": "beitrag-lifestyle-03.webp",
+    "source": "Luxuriöse Café-Momente mit Designer-Flair(2).png",
+    "caption": "👜 Café-Date mit Designer-Vibes: Monogramm-Tasche, Sonnenbrille und Macaron. Der Look ist schon ziemlich aesthetic – aber bei Luxustaschen zahlt man auch für den Namen. Würdest du für deine Dream Bag sparen oder lieber das Geld für einen Urlaub ausgeben? 💸",
+    "question": "",
+    "hashtags": "#DesignerBag #LuxuryStyle #CafeVibes #FashionTalk #LifestyleEdit",
+    "subtopic": "luxus",
+    "title": "THE DREAM BAG",
+    "cta": "Würdest du für deine Dream Bag sparen oder lieber das Geld für einen Urlaub ausgeben? 💸",
+    "comments": [
+      "Die Tasche ist schon wunderschön 😍",
+      "Für das Geld lieber ans Meer.",
+      "Vintage LV finde ich viel cooler.",
+      "Mir wäre das Logo zu auffällig.",
+      "Die Farbe passt echt zu allem.",
+      "Ich spare lieber für den Führerschein.",
+      "Eine gute Tasche ohne Logo reicht.",
+      "Secondhand wäre für mich eine Option.",
+      "Die Café-Ästhetik ist on point.",
+      "Teuer bedeutet nicht automatisch gute Qualität.",
+      "Ich hätte Angst vor Flecken haha.",
+      "Man muss nicht reich aussehen, um Style zu haben."
+    ]
+  },
+  "lifestyle-3": {
+    "image": "beitrag-lifestyle-04.webp",
+    "source": "Pastellfarbene Stanley®-Tumbler im Cozy-Zimmer(2).png",
+    "caption": "🎀 Pink, Cream oder Sage – die Stanley-Farbpalette ist schon cute. Viel Platz fürs Wasser und ein gemütliches Desk-Setup. Drei Becher braucht man dafür aber eigentlich nicht. 💧",
+    "question": "",
+    "hashtags": "#StanleyCup #Hydration #CozyDesk #PastelVibes #LifestyleEdit",
+    "subtopic": "stanley",
+    "title": "THE STANLEY OBSESSION",
+    "cta": "",
+    "comments": [
+      "Sage ist so schön 🌿",
+      "Pink wäre meine Wahl.",
+      "Der ist mir zu schwer für die Schule.",
+      "Meine normale Trinkflasche reicht.",
+      "Ich trinke damit tatsächlich mehr Wasser.",
+      "Drei Stück sind bisschen wild.",
+      "Der Henkel ist praktisch.",
+      "Passt der überhaupt in den Rucksack?",
+      "Cream sieht richtig clean aus.",
+      "Meine Flasche war viel günstiger.",
+      "Ich verstehe den Sammelhype nicht.",
+      "Das Setup ist mega cozy."
+    ]
+  },
+  "lifestyle-4": {
+    "image": "beitrag-lifestyle-05.webp",
+    "source": "Teenager beim iPhone-Auspacken(2).png",
+    "caption": "📱 Dieses Unboxing-Gefühl! Burgunderrot, drei Kameras und eine frische Box – sieht schon stark aus. Ein neues Handy ist spannend, auch wenn das alte vielleicht noch problemlos läuft. Upgrade oder noch ein Jahr behalten? Was wäre dein Move? 🔋",
+    "question": "",
+    "hashtags": "#iPhone #Unboxing #TechTalk #Smartphone #LifestyleEdit",
+    "subtopic": "smartphone",
+    "title": "NEW iPHONE. NEED OR WANT?",
+    "cta": "Upgrade oder noch ein Jahr behalten? Was wäre dein Move? 🔋",
+    "comments": [
+      "Die Farbe ist richtig nice.",
+      "Mein altes iPhone läuft noch top.",
+      "Team Android hier 😂",
+      "Akku ist mir wichtiger als Kamera.",
+      "Ich kaufe lieber refurbished.",
+      "Unboxing-Videos sind irgendwie satisfying.",
+      "So viel Geld für ein Handy ist wild.",
+      "Für Konzertvideos wäre eine gute Kamera praktisch.",
+      "Ein Akkutausch reicht manchmal.",
+      "Ich warte bis mein Handy kaputt ist.",
+      "Mit Hülle sieht man die Farbe eh kaum.",
+      "Neue Technik ist cool, aber nicht jedes Jahr nötig."
+    ]
+  },
+  "lifestyle-5": {
+    "image": "beitrag-lifestyle-06.webp",
+    "source": "Influencer-Studio mit Beauty-Setups(2).png",
+    "caption": "📸 Ringlicht an, PR-Pakete auspacken, Reel aufnehmen – und dann schneiden, schneiden, schneiden. Hinter einem 15-Sekunden-Clip steckt oft mehr Arbeit, als man im Feed sieht. Kooperationen sind übrigens Werbung, wenn die entsprechenden Voraussetzungen erfüllt sind. 💄",
+    "question": "",
+    "hashtags": "#CreatorLife #BehindTheFeed #ContentCreation #PRPackage #LifestyleEdit",
+    "subtopic": "influencer",
+    "title": "INFLUENCER LIFE",
+    "cta": "",
+    "comments": [
+      "Das Ringlicht macht so viel aus.",
+      "Ich brauche schon ewig für ein Reel 😭",
+      "PR-Pakete sehen immer so fancy aus.",
+      "Ich mag ehrliche Reviews viel lieber.",
+      "Werbung sollte klar erkennbar sein.",
+      "Immer online sein wäre mir zu stressig.",
+      "Editing macht mir richtig Spaß.",
+      "Die Kulisse ist schon sehr gestellt.",
+      "Mich interessiert auch der Alltag ohne Filter.",
+      "Nicht jedes kostenlose Produkt ist automatisch gut.",
+      "Wie viele Takes waren das wohl?",
+      "Ich würde lieber hinter der Kamera arbeiten."
+    ]
+  },
+  "lifestyle-6": {
+    "image": "beitrag-lifestyle-07.webp",
+    "source": "Motorrad, GTI und Sonnenuntergang(2).png",
+    "caption": "🏍️ Supermoto neben schwarzem GTI und dazu dieser Sunset – zwei komplett unterschiedliche Rides. Das erste eigene Fahrzeug bedeutet für viele mehr Freiheit, aber Versicherung, Sprit, Wartung und sichere Ausrüstung gehören auch dazu. Team Moped oder Team Auto? Schreib deinen Favoriten und warum! 🚗",
+    "question": "",
+    "hashtags": "#Supermoto #GTI #FirstRide #CarCulture #LifestyleEdit",
+    "subtopic": "mobilitaet",
+    "title": "DREAM RIDE",
+    "cta": "Team Moped oder Team Auto? Schreib deinen Favoriten und warum! 🚗",
+    "comments": [
+      "Supermoto sieht brutal gut aus 🔥",
+      "GTI wäre mein Traumauto.",
+      "Am Land ist ein Moped echt praktisch.",
+      "Im Winter lieber Auto.",
+      "Versicherung wird oft unterschätzt.",
+      "Guter Helm ist Pflicht für mich.",
+      "Ich spare gerade für den Führerschein.",
+      "Die orange Felge ist nice.",
+      "Mit Öffis komme ich überall hin.",
+      "Ein günstiger Gebrauchtwagen reicht mir.",
+      "Bitte keine riskanten Stunts im Straßenverkehr.",
+      "Der Sonnenuntergang macht das Bild."
+    ]
+  },
+  "lifestyle-7": {
+    "image": "beitrag-lifestyle-08.webp",
+    "source": "Neon-Nacht mit Festivalfreunden(2).png",
+    "caption": "🎶 Lieblingssongs live, Glitzer-Fits und die ganze Crew zusammen. Diese spontanen Festivalmomente bleiben im Kopf. Gute Vibes gibt’s auch ohne Alkohol – und ein entspannter Abend daheim ist genauso okay. 💜",
+    "question": "",
+    "hashtags": "#FestivalVibes #NightOut #Friends #LiveMusic #LifestyleEdit",
+    "subtopic": "party",
+    "title": "NIGHT OUT",
+    "cta": "",
+    "comments": [
+      "Die Lichtshow 😍",
+      "Festival mit der Crew ist einfach anders.",
+      "Das Glitzertop ist mega.",
+      "Ich mag kleinere Konzerte lieber.",
+      "Ohrstöpsel sind bei mir immer dabei.",
+      "Ohne Alkohol kann man genauso Spaß haben.",
+      "Ich wäre nach zwei Stunden müde haha.",
+      "Heimfahrt vorher ausmachen ist smart.",
+      "Nicht jeder Abend muss auf Insta landen.",
+      "Ich hasse es, wenn alle nur filmen.",
+      "Mit meinen Freunden wäre das lustig.",
+      "Manchmal ist Couch statt Party mein Vibe."
+    ]
+  },
+  "ki-schule-0": {
+    "image": "beitrag-ki-schule-01.webp",
+    "source": "KI lernt_ Daten, Muster, Anwendung.png",
+    "caption": "🧠 KI wird nicht schlau geboren! Beim Training werden die Parameter eines neuronalen Netzes anhand von Beispielen und einer Zielfunktion angepasst. Danach verarbeitet das Modell neue Eingaben, normalerweise ohne seine Gewichte bei jeder Anfrage zu ändern. Datenqualität, Trainingsverfahren und Tests beeinflussen die Zuverlässigkeit.",
+    "question": "🔍 Stell dir vor, ein Modell sieht beim Training fast nur weiße Hunde. Was könnte bei einem schwarzen Hund passieren? Schreib deine Vermutung!",
+    "hashtags": "#MaschinellesLernen #Trainingsdaten #NeuronaleNetze #KIWissen #AIUnlocked",
+    "subtopic": "training"
+  },
+  "ki-schule-1": {
+    "image": "beitrag-ki-schule-02.webp",
+    "source": "Wie KI die nächsten Wörter findet(1).png",
+    "caption": "💬 Ein Sprachmodell zerlegt Text in Tokens, etwa Wörter, Wortteile oder Satzzeichen. Es berechnet aus dem bisherigen Kontext Wahrscheinlichkeiten für das nächste Token und wählt eines nach dem jeweiligen Generierungsverfahren aus. So entsteht eine Antwort Token für Token. Die Prozentwerte im Bild sind frei gewählte Beispiele, keine gemessenen Modellwerte.",
+    "question": "🎯 Ergänze „Morgen gehe ich in die …“ und ändere danach den Kontext. Welche Fortsetzung erwartest du jetzt? Teile dein Beispiel!",
+    "hashtags": "#LLM #Tokens #Sprachmodell #KIWissen #AIUnlocked",
+    "subtopic": "tokens"
+  },
+  "ki-schule-2": {
+    "image": "beitrag-ki-schule-03.webp",
+    "source": "KI-Halluzinationen einfach erklärt(1).png",
+    "caption": "🚨 Eine KI kann überzeugend klingende Aussagen erzeugen, die faktisch falsch oder unbelegt sind. Beispiel: Sie behauptet, die erste Mondlandung sei 1972 gewesen – tatsächlich war sie 1969. Die fehlende Konjunktion im übersetzten Zitat auf der Grafik ist dagegen kein eindeutiger Halluzinationsbeleg. Prüfe Fakten, öffne Originalquellen und kontrolliere, ob sie die Aussage wirklich stützen.",
+    "question": "🕵️ Ist dir schon eine erfundene Quelle oder ein falscher Fakt aufgefallen? Poste ein Beispiel samt Korrektur!",
+    "hashtags": "#Halluzination #Faktencheck #Quellenkritik #Medienkompetenz #AIUnlocked",
+    "subtopic": "halluzination"
+  },
+  "ki-schule-3": {
+    "image": "beitrag-ki-schule-04.webp",
+    "source": "Prompt macht den Unterschied(1).png",
+    "caption": "🎯 Gib der KI eine klare Aufgabe, relevanten Kontext, Zielgruppe und gewünschtes Format. Beispiel: „Erkläre mir das Binärsystem auf dem Niveau der 5. AHS. Nutze ein Rechenbeispiel und stelle mir anschließend eine Übungsfrage ohne Lösung.“ Präzise Vorgaben können helfen, garantieren aber keine korrekte Antwort.",
+    "question": "⚡ Teste einen kurzen und einen strukturierten Prompt zum selben Thema. Welcher hilft dir mehr? Teile deinen besten Prompt!",
+    "hashtags": "#PromptEngineering #PromptTipps #Schule #KILernen #AIUnlocked",
+    "subtopic": "prompt"
+  },
+  "ki-schule-4": {
+    "image": "beitrag-ki-schule-05.webp",
+    "source": "Fortgeschrittene Prompt-Techniken_ Level Up!.png",
+    "caption": "🚀 Zero-Shot bedeutet ohne Beispiele, One-Shot mit einem Beispiel und Few-Shot mit wenigen Beispielen. Zerlege komplexe Aufgaben und verbessere Ergebnisse im Dialog. Nutze KI als Lerncoach: Lass dir Hinweise geben, beantworte Fragen selbst und bitte danach um gezieltes Feedback.",
+    "question": "🧩 Probiere es aus: Gib der KI eine eigene Musterantwort und lass sie eine neue Übungsfrage im gleichen Format erstellen. Was funktioniert besser?",
+    "hashtags": "#PromptEngineering #FewShot #Lerncoach #IterativesPrompting #AIUnlocked",
+    "subtopic": "promptpro"
+  },
+  "ki-schule-5": {
+    "image": "beitrag-ki-schule-06.webp",
+    "source": "KI-Lernposter_ Fünf Tools smarter nutzen.png",
+    "caption": "📚 Fünf Lernwerkzeuge zum Entdecken: NotebookLM arbeitet mit bereitgestellten Quellen, Quizlet und Knowt bieten Lernkarten und Übungen, StudyFetch unterstützt beim Aufbereiten von Lernmaterialien und der ChatGPT-Lernmodus beim angeleiteten Lernen. Funktionen, Kosten und Altersvorgaben können je nach Angebot variieren. Lade keine vertraulichen Daten hoch und prüfe erstellte Lernfragen.",
+    "question": "📲 Welches Tool würdest du für deinen nächsten Test wählen? Teile einen Lerntipp oder eine kritische Erfahrung!",
+    "hashtags": "#Lernapps #NotebookLM #Quizlet #KILernen #AIUnlocked",
+    "subtopic": "lerntools"
+  },
+  "ki-schule-6": {
+    "image": "beitrag-ki-schule-07.webp",
+    "source": "Welche KI passt zu deinem Problem_.png",
+    "caption": "🤖 GPT, Claude, Gemini, DeepSeek, Llama und Mistral bezeichnen Modellfamilien oder Marken; ChatGPT, Le Chat und Perplexity sind Anwendungen. Viele Systeme können mehrere Aufgaben erledigen. Vergleiche sie anhand derselben Aufgabe, Quellenqualität, Datenschutz und verfügbarer Funktionen statt nach einem pauschalen Ranking.",
+    "question": "⚔️ Welche KI würdest du für eine Recherche, eine Programmieraufgabe oder eine Texterklärung wählen? Begründe deine Wahl!",
+    "hashtags": "#LLM #KIModelle #ChatGPT #Medienkompetenz #AIUnlocked",
+    "subtopic": "modelle"
+  },
+  "ki-schule-7": {
+    "image": "beitrag-ki-schule-08.webp",
+    "source": "KI fair und transparent nutzen(1).png",
+    "caption": "⚖️ KI darf dich beim Lernen unterstützen, wenn die Regeln der Aufgabe das erlauben. Einen KI-Text als selbst geschrieben auszugeben, obwohl Eigenleistung verlangt wird, ist eine Täuschung. KI-Texte sind nicht automatisch Plagiate; entscheidend sind auch Quellen, Aufgabenregeln und Transparenz. KI-Detektoren allein beweisen keine Täuschung. Dokumentiere Tool, Modell (wenn bekannt), Zweck und Umfang deiner Nutzung.",
+    "question": "💬 Wo ziehst du die Grenze: Ideen sammeln, Text korrigieren oder komplett generieren? Diskutiere mit konkreten Beispielen!",
+    "hashtags": "#Eigenleistung #KIEthik #Schule #Transparenz #AIUnlocked",
+    "subtopic": "eigenleistung"
+  },
+  "ki-schule-8": {
+    "image": "beitrag-ki-schule-09.webp",
+    "source": "KI-Bilder und Videos kreativ nutzen(1).png",
+    "caption": "🎨 Beschreibe Motiv, Stil, Bildaufbau, Perspektive, Licht und Seitenverhältnis. Beispiel: „Ein futuristischer Schulhof, Comicstil, Vogelperspektive, neonblaue Akzente, quadratisch.“ Verändere anschließend gezielt nur einzelne Elemente. Prüfe Anatomie, Schrift und fachliche Details; respektiere Persönlichkeitsrechte, Urheberrecht und Lizenzen. Kennzeichne synthetische Inhalte transparent.",
+    "question": "📸 Erstelle zwei Varianten derselben Bildidee mit unterschiedlicher Perspektive. Welche wirkt stärker? Teile deinen Prompt!",
+    "hashtags": "#Bildgenerierung #KIKunst #Bildprompt #Kreativität #AIUnlocked",
+    "subtopic": "bildki"
+  },
+  "ki-schule-9": {
+    "image": "beitrag-ki-schule-10.webp",
+    "source": "KI im Schulalltag_ Chancen und Grenzen.png",
+    "caption": "🏫 Nutze KI, um selbstständiges Lernen zu stärken: Lass dir eine Frage stellen, antworte ohne Hilfe (Active Recall), erkläre das Thema in eigenen Worten und lass dir Rückmeldung geben. Wiederhole schwierige Inhalte mit zeitlichem Abstand (Spaced Repetition). Prüfe Feedback anhand deiner Unterlagen und beachte Schulregeln und Datenschutz.",
+    "question": "🧠 Challenge: Lass dich fünf Minuten zu einem Thema abfragen, ohne Lösungen vorab zu sehen. Was konntest du danach selbst erklären? Berichte!",
+    "hashtags": "#Schulalltag #ActiveRecall #SpacedRepetition #Lernstrategien #AIUnlocked",
+    "subtopic": "schulalltag"
+  }
+}

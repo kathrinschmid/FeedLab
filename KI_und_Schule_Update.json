@@ -1,0 +1,212 @@
+{
+  "ki-schule-0": {
+    "image": "beitrag-ki-schule-01.webp",
+    "source": "KI lernt_ Daten, Muster, Anwendung.png",
+    "caption": "🧠 KI wird nicht schlau geboren! Beim Training werden die Parameter eines neuronalen Netzes anhand von Beispielen und einer Zielfunktion angepasst. Danach verarbeitet das Modell neue Eingaben, normalerweise ohne seine Gewichte bei jeder Anfrage zu ändern. Datenqualität, Trainingsverfahren und Tests beeinflussen die Zuverlässigkeit.",
+    "question": "🔍 Stell dir vor, ein Modell sieht beim Training fast nur weiße Hunde. Was könnte bei einem schwarzen Hund passieren? Schreib deine Vermutung!",
+    "hashtags": "#MaschinellesLernen #Trainingsdaten #NeuronaleNetze #KIWissen #AIUnlocked",
+    "subtopic": "training",
+    "title": "Wie KI lernt",
+    "comments": [
+      "Ich dachte, die KI lernt bei jedem Chat direkt weiter.",
+      "Was genau sind eigentlich Modellparameter?",
+      "Das Hunde-Beispiel macht den Zusammenhang verständlich.",
+      "Wenn die Daten einseitig sind, kann das Ergebnis auch unfair sein.",
+      "Kann man ein Modell später nachtrainieren?",
+      "Also ist Training etwas anderes als eine normale Anfrage.",
+      "Mich würde interessieren, wie man die Qualität testet.",
+      "Ein Gehirn ist nur ein Vergleich, kein echtes Gehirn.",
+      "Wie viele Beispiele braucht ein kleines Modell?",
+      "Auch gute Daten garantieren keine fehlerfreien Antworten."
+    ]
+  },
+  "ki-schule-1": {
+    "image": "beitrag-ki-schule-02.webp",
+    "source": "Wie KI die nächsten Wörter findet(1).png",
+    "caption": "💬 Ein Sprachmodell zerlegt Text in Tokens, etwa Wörter, Wortteile oder Satzzeichen. Es berechnet aus dem bisherigen Kontext Wahrscheinlichkeiten für das nächste Token und wählt eines nach dem jeweiligen Generierungsverfahren aus. So entsteht eine Antwort Token für Token. Die Prozentwerte im Bild sind frei gewählte Beispiele, keine gemessenen Modellwerte.",
+    "question": "🎯 Ergänze „Morgen gehe ich in die …“ und ändere danach den Kontext. Welche Fortsetzung erwartest du jetzt? Teile dein Beispiel!",
+    "hashtags": "#LLM #Tokens #Sprachmodell #KIWissen #AIUnlocked",
+    "subtopic": "tokens",
+    "title": "Sprachmodelle und Tokens",
+    "comments": [
+      "Ich dachte immer, es sucht einfach fertige Antworten im Internet.",
+      "Tokens sind also nicht immer ganze Wörter?",
+      "Mit dem Kontext ergibt die Sache mehr Sinn.",
+      "Die Prozentzahlen sind nur ein Beispiel, richtig?",
+      "Warum bekommt meine Freundin eine andere Antwort?",
+      "Ein Modell muss nicht immer das wahrscheinlichste Token wählen.",
+      "Kann ein Satzzeichen auch ein Token sein?",
+      "Ich würde gerne sehen, wie ein deutsches Wort zerlegt wird.",
+      "Plausibel heißt noch lange nicht wahr.",
+      "Das erklärt, warum manche Antworten so flüssig klingen."
+    ]
+  },
+  "ki-schule-2": {
+    "image": "beitrag-ki-schule-03.webp",
+    "source": "KI-Halluzinationen einfach erklärt(1).png",
+    "caption": "🚨 Eine KI kann überzeugend klingende Aussagen erzeugen, die faktisch falsch oder unbelegt sind. Beispiel: Sie behauptet, die erste Mondlandung sei 1972 gewesen – tatsächlich war sie 1969. Die fehlende Konjunktion im übersetzten Zitat auf der Grafik ist dagegen kein eindeutiger Halluzinationsbeleg. Prüfe Fakten, öffne Originalquellen und kontrolliere, ob sie die Aussage wirklich stützen.",
+    "question": "🕵️ Ist dir schon eine erfundene Quelle oder ein falscher Fakt aufgefallen? Poste ein Beispiel samt Korrektur!",
+    "hashtags": "#Halluzination #Faktencheck #Quellenkritik #Medienkompetenz #AIUnlocked",
+    "subtopic": "halluzination",
+    "title": "KI-Halluzinationen",
+    "comments": [
+      "Mir hat eine KI schon einen nicht existierenden Buchtitel genannt.",
+      "Das mit dem fehlenden aber ist eher eine Übersetzungsfrage.",
+      "Quellenlinks können ebenfalls falsch sein.",
+      "Ich prüfe Jahreszahlen inzwischen extra.",
+      "Manchmal klingt die falsche Antwort überzeugender als meine richtige.",
+      "Eine zweite KI ist noch kein unabhängiger Faktencheck.",
+      "Was mache ich, wenn keine Originalquelle auffindbar ist?",
+      "Bei Referaten würde ich immer die Quelle öffnen.",
+      "Das Mondlandungsjahr lässt sich gut überprüfen.",
+      "Ich finde gut, wenn eine KI Unsicherheit zugibt."
+    ]
+  },
+  "ki-schule-3": {
+    "image": "beitrag-ki-schule-04.webp",
+    "source": "Prompt macht den Unterschied(1).png",
+    "caption": "🎯 Gib der KI eine klare Aufgabe, relevanten Kontext, Zielgruppe und gewünschtes Format. Beispiel: „Erkläre mir das Binärsystem auf dem Niveau der 5. AHS. Nutze ein Rechenbeispiel und stelle mir anschließend eine Übungsfrage ohne Lösung.“ Präzise Vorgaben können helfen, garantieren aber keine korrekte Antwort.",
+    "question": "⚡ Teste einen kurzen und einen strukturierten Prompt zum selben Thema. Welcher hilft dir mehr? Teile deinen besten Prompt!",
+    "hashtags": "#PromptEngineering #PromptTipps #Schule #KILernen #AIUnlocked",
+    "subtopic": "prompt",
+    "title": "Prompt Engineering",
+    "comments": [
+      "Mit einer konkreten Schulstufe wird es oft verständlicher.",
+      "Ich vergesse immer das Ausgabeformat.",
+      "Zu viele Vorgaben können auch verwirren.",
+      "Der Binärsystem-Prompt wäre praktisch für unseren Test.",
+      "Ich lasse mir gerne Übungsfragen ohne Lösung geben.",
+      "Manchmal reicht auch eine kurze Frage.",
+      "Kann ich einen schlechten Prompt nachträglich verbessern?",
+      "Kontext ist wichtiger als höfliche Floskeln.",
+      "Ich würde noch mein Vorwissen dazuschreiben.",
+      "Ein guter Prompt ersetzt keinen Faktencheck."
+    ]
+  },
+  "ki-schule-4": {
+    "image": "beitrag-ki-schule-05.webp",
+    "source": "Fortgeschrittene Prompt-Techniken_ Level Up!.png",
+    "caption": "🚀 Zero-Shot bedeutet ohne Beispiele, One-Shot mit einem Beispiel und Few-Shot mit wenigen Beispielen. Zerlege komplexe Aufgaben und verbessere Ergebnisse im Dialog. Nutze KI als Lerncoach: Lass dir Hinweise geben, beantworte Fragen selbst und bitte danach um gezieltes Feedback.",
+    "question": "🧩 Probiere es aus: Gib der KI eine eigene Musterantwort und lass sie eine neue Übungsfrage im gleichen Format erstellen. Was funktioniert besser?",
+    "hashtags": "#PromptEngineering #FewShot #Lerncoach #IterativesPrompting #AIUnlocked",
+    "subtopic": "promptpro",
+    "title": "Prompt Engineering PRO",
+    "comments": [
+      "One-Shot kannte ich noch gar nicht.",
+      "Die erste Antwort ist bei mir oft zu allgemein.",
+      "Mit Beispielen klappt das gewünschte Format besser.",
+      "Ich hätte gern ein Beispiel für Programmieren.",
+      "Nicht jede Überarbeitung macht eine Antwort besser.",
+      "Ich teile Referate lieber in einzelne Schritte auf.",
+      "Die KI soll mir Fragen stellen statt alles vorzusagen.",
+      "Mein Tipp: Sag genau, was an der Antwort schlecht war.",
+      "Few-Shot ist kein Nachtrainieren der Modellgewichte.",
+      "Das probiere ich bei der nächsten Übung."
+    ]
+  },
+  "ki-schule-5": {
+    "image": "beitrag-ki-schule-06.webp",
+    "source": "KI-Lernposter_ Fünf Tools smarter nutzen.png",
+    "caption": "📚 Fünf Lernwerkzeuge zum Entdecken: NotebookLM arbeitet mit bereitgestellten Quellen, Quizlet und Knowt bieten Lernkarten und Übungen, StudyFetch unterstützt beim Aufbereiten von Lernmaterialien und der ChatGPT-Lernmodus beim angeleiteten Lernen. Funktionen, Kosten und Altersvorgaben können je nach Angebot variieren. Lade keine vertraulichen Daten hoch und prüfe erstellte Lernfragen.",
+    "question": "📲 Welches Tool würdest du für deinen nächsten Test wählen? Teile einen Lerntipp oder eine kritische Erfahrung!",
+    "hashtags": "#Lernapps #NotebookLM #Quizlet #KILernen #AIUnlocked",
+    "subtopic": "lerntools",
+    "title": "KI-Lerntools",
+    "comments": [
+      "Mit Karteikarten komme ich besser zurecht als mit langen Zusammenfassungen.",
+      "NotebookLM klingt für meine Mitschrift interessant.",
+      "Sind alle Funktionen gratis?",
+      "Ich mag Papierkarten trotzdem lieber.",
+      "KI-Fragen passen nicht immer zum Prüfungsstoff.",
+      "Kann mir jemand den Unterschied zwischen Knowt und Quizlet erklären?",
+      "Ich will nicht meine ganzen Schulunterlagen hochladen.",
+      "Der Lernmodus hilft mir, wenn ich bei Mathe feststecke.",
+      "Ein Tool allein macht noch keine Lernroutine.",
+      "Ich würde zuerst mit einem kleinen Kapitel testen."
+    ]
+  },
+  "ki-schule-6": {
+    "image": "beitrag-ki-schule-07.webp",
+    "source": "Welche KI passt zu deinem Problem_.png",
+    "caption": "🤖 GPT, Claude, Gemini, DeepSeek, Llama und Mistral bezeichnen Modellfamilien oder Marken; ChatGPT, Le Chat und Perplexity sind Anwendungen. Viele Systeme können mehrere Aufgaben erledigen. Vergleiche sie anhand derselben Aufgabe, Quellenqualität, Datenschutz und verfügbarer Funktionen statt nach einem pauschalen Ranking.",
+    "question": "⚔️ Welche KI würdest du für eine Recherche, eine Programmieraufgabe oder eine Texterklärung wählen? Begründe deine Wahl!",
+    "hashtags": "#LLM #KIModelle #ChatGPT #Medienkompetenz #AIUnlocked",
+    "subtopic": "modelle",
+    "title": "KI-Modelle und Anwendungen",
+    "comments": [
+      "Für Recherche brauche ich vor allem nachvollziehbare Quellen.",
+      "Mit Claude würde ich gerne einen langen Text testen.",
+      "Kann man Llama auch lokal nutzen?",
+      "Ich finde die Unterschiede manchmal viel kleiner als erwartet.",
+      "Eine gute Antwort hängt auch von der Aufgabe ab.",
+      "Perplexity-Quellen sollte man trotzdem öffnen.",
+      "Ich würde zwei Modelle mit demselben Prompt vergleichen.",
+      "Datenschutz ist mir wichtiger als ein cooler Name.",
+      "Welche Modelle funktionieren bei Mathe am zuverlässigsten?",
+      "Die konkrete Version macht wahrscheinlich einen großen Unterschied."
+    ]
+  },
+  "ki-schule-7": {
+    "image": "beitrag-ki-schule-08.webp",
+    "source": "KI fair und transparent nutzen(1).png",
+    "caption": "⚖️ KI darf dich beim Lernen unterstützen, wenn die Regeln der Aufgabe das erlauben. Einen KI-Text als selbst geschrieben auszugeben, obwohl Eigenleistung verlangt wird, ist eine Täuschung. KI-Texte sind nicht automatisch Plagiate; entscheidend sind auch Quellen, Aufgabenregeln und Transparenz. KI-Detektoren allein beweisen keine Täuschung. Dokumentiere Tool, Modell (wenn bekannt), Zweck und Umfang deiner Nutzung.",
+    "question": "💬 Wo ziehst du die Grenze: Ideen sammeln, Text korrigieren oder komplett generieren? Diskutiere mit konkreten Beispielen!",
+    "hashtags": "#Eigenleistung #KIEthik #Schule #Transparenz #AIUnlocked",
+    "subtopic": "eigenleistung",
+    "title": "Eigenleistung und KI",
+    "comments": [
+      "Ideen sammeln finde ich anders als einen fertigen Text abgeben.",
+      "Unsere Lehrkraft erlaubt KI nur für Feedback.",
+      "Die Regeln sollten vor der Aufgabe klar sein.",
+      "Ein Detektor kann doch auch eigene Texte falsch markieren.",
+      "Wenn ich den Text nicht erklären kann, habe ich nichts gelernt.",
+      "Ist Rechtschreibkorrektur schon KI-Nutzung?",
+      "Ich würde die Prompts im Anhang dokumentieren.",
+      "Kennzeichnen macht eine verbotene Nutzung nicht automatisch erlaubt.",
+      "Bei Gruppenarbeiten sollte man sich auch einigen.",
+      "Ich finde faire Regeln besser als ein pauschales Verbot."
+    ]
+  },
+  "ki-schule-8": {
+    "image": "beitrag-ki-schule-09.webp",
+    "source": "KI-Bilder und Videos kreativ nutzen(1).png",
+    "caption": "🎨 Beschreibe Motiv, Stil, Bildaufbau, Perspektive, Licht und Seitenverhältnis. Beispiel: „Ein futuristischer Schulhof, Comicstil, Vogelperspektive, neonblaue Akzente, quadratisch.“ Verändere anschließend gezielt nur einzelne Elemente. Prüfe Anatomie, Schrift und fachliche Details; respektiere Persönlichkeitsrechte, Urheberrecht und Lizenzen. Kennzeichne synthetische Inhalte transparent.",
+    "question": "📸 Erstelle zwei Varianten derselben Bildidee mit unterschiedlicher Perspektive. Welche wirkt stärker? Teile deinen Prompt!",
+    "hashtags": "#Bildgenerierung #KIKunst #Bildprompt #Kreativität #AIUnlocked",
+    "subtopic": "bildki",
+    "title": "KI-Bild- und Videogenerierung",
+    "comments": [
+      "Die Perspektive ändert echt viel.",
+      "Bei Schrift im Bild passieren bei mir oft Fehler.",
+      "Ich würde keine Fotos von Mitschülern ohne Erlaubnis hochladen.",
+      "Kann ich nur den Hintergrund ändern lassen?",
+      "Mein erster Prompt war viel zu ungenau.",
+      "Comicstil gefällt mir für Lernplakate besser.",
+      "KI-Bilder können auch Klischees wiederholen.",
+      "Ein schönes Bild kann sachlich falsch sein.",
+      "Ich finde eine klare KI-Kennzeichnung wichtig.",
+      "Die Idee mit zwei Varianten probiere ich aus."
+    ]
+  },
+  "ki-schule-9": {
+    "image": "beitrag-ki-schule-10.webp",
+    "source": "KI im Schulalltag_ Chancen und Grenzen.png",
+    "caption": "🏫 Nutze KI, um selbstständiges Lernen zu stärken: Lass dir eine Frage stellen, antworte ohne Hilfe (Active Recall), erkläre das Thema in eigenen Worten und lass dir Rückmeldung geben. Wiederhole schwierige Inhalte mit zeitlichem Abstand (Spaced Repetition). Prüfe Feedback anhand deiner Unterlagen und beachte Schulregeln und Datenschutz.",
+    "question": "🧠 Challenge: Lass dich fünf Minuten zu einem Thema abfragen, ohne Lösungen vorab zu sehen. Was konntest du danach selbst erklären? Berichte!",
+    "hashtags": "#Schulalltag #ActiveRecall #SpacedRepetition #Lernstrategien #AIUnlocked",
+    "subtopic": "schulalltag",
+    "title": "KI im Schulalltag",
+    "comments": [
+      "Nur Zusammenfassungen lesen reicht mir nicht.",
+      "Ich will lieber selbst antworten und danach Feedback bekommen.",
+      "Zeitversetztes Wiederholen hilft mir bei Vokabeln.",
+      "KI macht mir manchmal zu einfache Fragen.",
+      "Ich würde meine Fehler in einer Liste sammeln.",
+      "Bei schwierigen Themen brauche ich trotzdem eine Lehrkraft.",
+      "Fünf Minuten Abfragen klingt machbar.",
+      "Wenn ich es selbst erklären kann, merke ich den Fortschritt.",
+      "Ich finde klare Datenschutzregeln wichtig.",
+      "Die KI sollte mir nicht sofort die Lösung verraten."
+    ]
+  }
+}

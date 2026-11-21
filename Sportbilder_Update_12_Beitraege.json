@@ -1,0 +1,135 @@
+{
+  "based_on": "FeedLab_Version_3_6_GitHub_Pages_30plus18.zip",
+  "updated_posts": [
+    {
+      "post_id": "sport-2",
+      "file": "assets/beitrag-sport-03.webp",
+      "sport": "Ski alpin",
+      "source_file": "a_high_energy_ultra_realistic_action_sports_photo.png",
+      "caption": "Ein Tor, eine enge Linie, Schnee fliegt über die Ski. Im Slalom entscheidet nicht nur der Mut zum Tempo, sondern auch, wie sauber du den Schwung triffst.",
+      "question": "Schon mal ein Skirennen gefahren?",
+      "hashtags": "#SkiAlpin #Slalom #Skirennen #Renntraining #Wintersport",
+      "comments": 28
+    },
+    {
+      "post_id": "sport-3",
+      "file": "assets/beitrag-sport-04.webp",
+      "sport": "Snowboarding",
+      "source_file": "dynamischer_snowboard_carve_im_pulverschnee.png",
+      "caption": "Dieser Moment, wenn die Kante greift und der Schnee seitlich hochspritzt. Der Turn fühlt sich schnell an, obwohl eigentlich die Kontrolle den Unterschied macht.",
+      "question": "Lieber Carven auf der Piste oder Tricks im Park?",
+      "hashtags": "#Snowboarding #Carving #SnowLife #Bergsport #WinterVibes",
+      "comments": 28
+    },
+    {
+      "post_id": "sport-4",
+      "file": "assets/beitrag-sport-05.webp",
+      "sport": "Volleyball",
+      "source_file": "dramatischer_volleyballblock_über_dem_netz.png",
+      "caption": "Der Angriff kommt, zwei Spielerinnen springen zum Block – und für einen Augenblick schaut das ganze Team nur auf den Ball. Genau diese Sekunden machen ein Match so spannend.",
+      "question": "Was feierst du mehr: einen starken Block oder einen perfekten Angriff?",
+      "hashtags": "#Volleyball #Matchday #Teamspirit #Vereinssport #Block",
+      "comments": 28
+    },
+    {
+      "post_id": "sport-5",
+      "file": "assets/beitrag-sport-06.webp",
+      "sport": "Leichtathletik",
+      "source_file": "sprinterin_im_goldenen_morgenlicht.png",
+      "caption": "Noch ein Atemzug, dann geht es aus dem Startblock. Vor dem Sprint zählen Fokus, Haltung und ein sauberer Abdruck – danach bleibt keine Zeit mehr zum Nachdenken.",
+      "question": "Trainierst du lieber Sprint, Sprung oder Ausdauer?",
+      "hashtags": "#Leichtathletik #Sprint #Startblock #TrackAndField #Training",
+      "comments": 28
+    },
+    {
+      "post_id": "sport-6",
+      "file": "assets/beitrag-sport-07.webp",
+      "sport": "Parkour",
+      "source_file": "a_dynamic_cinematic_outdoor_urban_parkour_scene_d.png",
+      "caption": "Ein Arm stützt, die Beine fliegen über die Kante, die Landung kommt gleich. Was auf dem Foto mühelos aussieht, braucht Timing, Körperspannung und ziemlich viele Versuche.",
+      "question": "Welches Hindernis würdest du als Erstes ausprobieren?",
+      "hashtags": "#Parkour #Freerunning #UrbanSports #Movement #BodyControl",
+      "comments": 28
+    },
+    {
+      "post_id": "sport-7",
+      "file": "assets/beitrag-sport-08.webp",
+      "sport": "Schwimmen",
+      "source_file": "a_dynamic_photorealistic_close_up_sports_scene_at.png",
+      "caption": "Pause am Beckenrand nach den letzten Bahnen. Die Schultern sind müde, das Wasser ist noch in Bewegung – und die nächste Trainingsrunde wartet schon.",
+      "question": "Welche Lage schwimmst du am liebsten?",
+      "hashtags": "#Schwimmen #SwimTraining #PoolLife #Vereinssport #Bahnenziehen",
+      "comments": 28
+    },
+    {
+      "post_id": "sport-8",
+      "file": "assets/beitrag-sport-09.webp",
+      "sport": "Fußball",
+      "source_file": "a_high_detail_cinematic_sports_photo_of_a_soccer.png",
+      "caption": "Noch einen Kontakt am Ball, bevor der Gegenspieler herankommt. In diesem Zweikampf entscheidet der erste Schritt darüber, ob Platz für den nächsten Pass entsteht.",
+      "question": "Was ist schwieriger: den Ball behaupten oder den Passweg sehen?",
+      "hashtags": "#Fußball #Zweikampf #FootballTraining #Matchday #TeamSport",
+      "comments": 28
+    },
+    {
+      "post_id": "sport-9",
+      "file": "assets/beitrag-sport-10.webp",
+      "sport": "Kunstturnen & Akrobatik",
+      "source_file": "akrobatischer_teamspass_in_der_turnhalle.png",
+      "caption": "Vorne hält eine Turnerin ihre Stützfigur, hinten wird weitergeübt und angefeuert. Die schwierigsten Moves sehen oft erst locker aus, wenn sehr viel Training dahintersteckt.",
+      "question": "Welche Übung würdest du gern einmal schaffen?",
+      "hashtags": "#Kunstturnen #Akrobatik #Gymnastics #TeamTraining #BodyControl",
+      "comments": 28
+    },
+    {
+      "post_id": "sport-10",
+      "file": "assets/beitrag-sport-11.webp",
+      "sport": "Basketball",
+      "source_file": "a_dynamic_realistic_outdoor_basketball_scene_shot.png",
+      "caption": "Der Ball bleibt tief, die Verteidigung rückt nach und der Korb ist schon im Blick. Beim 1-gegen-1 können ein Tempowechsel und der richtige erste Schritt alles verändern.",
+      "question": "Lieber Streetball draußen oder ein Match in der Halle?",
+      "hashtags": "#Basketball #Streetball #OneOnOne #CourtLife #TeamSport",
+      "comments": 28
+    },
+    {
+      "post_id": "sport-11",
+      "file": "assets/beitrag-sport-12.webp",
+      "sport": "Mädchenfußball",
+      "source_file": "a_dynamic_outdoor_soccer_scene_at_golden_hour_on_a.png",
+      "caption": "Drei Spielerinnen, ein Ball, kaum Platz. Wer hier die Übersicht behält, findet vielleicht genau die Lücke für den nächsten Spielzug.",
+      "question": "Würdest du dribbeln oder direkt abspielen?",
+      "hashtags": "#Mädchenfußball #Fußball #Teamwork #Matchday #GirlsInSport",
+      "comments": 28
+    },
+    {
+      "post_id": "sport-12",
+      "file": "assets/beitrag-sport-13.webp",
+      "sport": "Bouldern",
+      "source_file": "a_sharp_dynamic_indoor_rock_climbing_bouldering_g.png",
+      "caption": "Die Finger sind schon voller Chalk, der nächste Griff ist knapp außer Reichweite. Beim Bouldern geht es nicht nur um Kraft – oft löst die richtige Bewegung das Problem.",
+      "question": "Bist du Team Kraft oder Team Technik an der Wand?",
+      "hashtags": "#Bouldern #Klettern #ClimbingGym #BoulderProblem #GripStrength",
+      "comments": 28
+    },
+    {
+      "post_id": "sport-13",
+      "file": "assets/beitrag-sport-14.webp",
+      "sport": "Judo",
+      "source_file": "a_sharp_cinematic_realistic_sports_action_photo.png",
+      "caption": "Auf der Matte ist gerade Bodenarbeit angesagt: Griff halten, Gewicht verlagern und die Position sichern. Beim Judo entscheiden kleine Bewegungen oft mehr als rohe Kraft.",
+      "question": "Liegt dir Standkampf oder Bodenarbeit mehr?",
+      "hashtags": "#Judo #NeWaza #Kampfsport #Tatami #JudoTraining",
+      "comments": 28
+    }
+  ],
+  "unchanged_sport_posts": [
+    "sport-0: Skateboard",
+    "sport-1: Turmspringen"
+  ],
+  "notes": [
+    "14 Sportbeiträge im Original; 12 neue Bilder für zwölf Sportbeiträge, zwei ursprüngliche Sportbilder aus Gründen der Bild-Eindeutigkeit belassen",
+    "jeweils exakt fünf Hashtags",
+    "sportbezogene, individuell unterschiedliche Kommentare für alle 14 Sportbeiträge",
+    "keine Änderungen an Anzahl und Logik der Phasen 30+18"
+  ]
+}

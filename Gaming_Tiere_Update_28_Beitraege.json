@@ -1,0 +1,293 @@
+{
+  "based_on": "FeedLab_Version_3_6_GitHub_Pages_30plus18_Sportupdate_12_Bilder.zip",
+  "updated_gaming": [
+    {
+      "topic": "gaming",
+      "post_id": "gaming-0",
+      "file": "assets/beitrag-gaming-01.webp",
+      "subject": "Grand Theft Auto VI",
+      "image_source": "a_vivid_cinematic_neon_gta_style_illustration.png",
+      "caption": "Abendlicht, Palmen, ein Auto vor uns und gefühlt tausend Möglichkeiten. Genau dieses freie Erkunden macht die GTA-VI-Spielwelt so reizvoll – manchmal ist der Umweg spannender als die Mission.",
+      "cta": "Was würdest du zuerst machen: die Stadt erkunden oder direkt eine Mission starten?",
+      "hashtags": "#GTA6 #GrandTheftAutoVI #OpenWorld #GamingCommunity #ViceCityVibes"
+    },
+    {
+      "topic": "gaming",
+      "post_id": "gaming-1",
+      "file": "assets/beitrag-gaming-02.webp",
+      "subject": "Minecraft",
+      "image_source": "a_vivid_cinematic_high_detail_ai_generated_gamin.png",
+      "caption": "Nur eine kleine Hütte bauen – und plötzlich ist es eine ganze Festung am Wasser. In Minecraft wird aus jedem Block eine Idee, vor allem wenn man zusammen kreativ wird.",
+      "cta": "Was baut ihr zuerst: eine sichere Base oder etwas komplett Verrücktes?",
+      "hashtags": "#Minecraft #BuildChallenge #SurvivalMode #CreativeGaming #BlockWorld"
+    },
+    {
+      "topic": "gaming",
+      "post_id": "gaming-2",
+      "file": "assets/beitrag-gaming-03.webp",
+      "subject": "Roblox",
+      "image_source": "a_vibrant_photorealistic_stylized_gaming_room_sce.png",
+      "caption": "Bunte Welten, verrückte Ideen und ständig ein neues Erlebnis: Auf Roblox ist die nächste Überraschung oft nur einen Klick entfernt. Heute eine kunterbunte Stadt, morgen vielleicht ein Obby.",
+      "cta": "Welche Roblox-Erfahrung macht dir mit Freund*innen am meisten Spaß?",
+      "hashtags": "#Roblox #RobloxCommunity #Obby #GamingFriends #AvatarStyle"
+    },
+    {
+      "topic": "gaming",
+      "post_id": "gaming-3",
+      "file": "assets/beitrag-gaming-04.webp",
+      "subject": "Fortnite",
+      "image_source": "a_close_cinematic_gaming_room_scene_a_realistic.png",
+      "caption": "Die Zone wird kleiner, dein Team ruft durcheinander und plötzlich zählt jeder Treffer. Fortnite ist genau dieses Chaos aus Tempo, Überblick und einer richtig guten gemeinsamen Runde.",
+      "cta": "Lieber taktisch bis zum Endgame spielen oder sofort ins nächste Duell?",
+      "hashtags": "#Fortnite #BattleRoyale #SquadGoals #Endgame #GamingMoments"
+    },
+    {
+      "topic": "gaming",
+      "post_id": "gaming-4",
+      "file": "assets/beitrag-gaming-05.webp",
+      "subject": "Brawl Stars",
+      "image_source": "a_vibrant_neon_lit_gaming_setup_scene_shot_in_a_r.png",
+      "caption": "Ein kurzer Blick auf die Arena, dann wird schon ausgewichen, gezielt und gemeinsam Druck gemacht. Brawl Stars wirkt bunt und leicht – bis eine Runde kurz vor Schluss kippt.",
+      "cta": "Mit welchem Brawler spielst du am liebsten?",
+      "hashtags": "#BrawlStars #Brawler #MobileGaming #TeamPlay #Matchday"
+    },
+    {
+      "topic": "gaming",
+      "post_id": "gaming-5",
+      "file": "assets/beitrag-gaming-06.webp",
+      "subject": "Block Blast!",
+      "image_source": "neon_blockpuzzle_im_gamingzimmer.png",
+      "caption": "Nur kurz ein paar Blöcke setzen … und auf einmal passt genau das eine Teil nicht mehr. Block Blast! ist so simpel zu starten und so schwer wieder wegzulegen.",
+      "cta": "Planst du deine nächsten Züge oder spielst du spontan?",
+      "hashtags": "#BlockBlast #PuzzleGame #MobileGaming #Highscore #BrainChallenge"
+    },
+    {
+      "topic": "gaming",
+      "post_id": "gaming-6",
+      "file": "assets/beitrag-gaming-07.webp",
+      "subject": "EA SPORTS FC 27",
+      "image_source": "neon_fussballnacht_im_gaming_zimmer.png",
+      "caption": "Flutlicht, letzter Angriff, Verteidigung steht dicht – und der nächste Pass könnte entscheiden. In EA SPORTS FC 27 ist das Gefühl nach einem hart erkämpften Tor einfach etwas anderes.",
+      "cta": "Was ist dein Spielstil: Ballbesitz oder schnelles Kontern?",
+      "hashtags": "#EASportsFC27 #FootballGaming #UltimateTeam #GamingMatch #LastMinuteGoal"
+    },
+    {
+      "topic": "gaming",
+      "post_id": "gaming-7",
+      "file": "assets/beitrag-gaming-08.webp",
+      "subject": "Mario Kart World",
+      "image_source": "a_vibrant_neon_lit_gaming_room_scene_in_a_cinemat.png",
+      "caption": "Vorne noch in Führung, dann kommt aus dem Nichts das nächste Item. Mario Kart World ist dieses perfekte Rennchaos, bei dem sich Freundschaften in der letzten Kurve kurz verabschieden.",
+      "cta": "Welche Strecke würdest du sofort noch einmal fahren?",
+      "hashtags": "#MarioKartWorld #KartRacing #NintendoGaming #RaceNight #MultiplayerFun"
+    },
+    {
+      "topic": "gaming",
+      "post_id": "gaming-8",
+      "file": "assets/beitrag-gaming-09.webp",
+      "subject": "Die Sims 4",
+      "image_source": "a_vibrant_hyper_realistic_cinematic_gaming_setup.png",
+      "caption": "Eigentlich wollte ich nur kurz ein Zimmer einrichten. Jetzt hat das Haus drei Stockwerke, einen Garten und ich überlege immer noch, welche Lampe passt. Willkommen bei Die Sims 4.",
+      "cta": "Verbringst du mehr Zeit im Baumodus oder mit den Geschichten deiner Sims?",
+      "hashtags": "#DieSims4 #TheSims4 #BuildMode #CozyGaming #SimLife"
+    },
+    {
+      "topic": "gaming",
+      "post_id": "gaming-9",
+      "file": "assets/beitrag-gaming-10.webp",
+      "subject": "Dress to Impress",
+      "image_source": "a_vibrant_neon_pink_and_purple_lit_gaming_room_sc.png",
+      "caption": "Thema bekommen, Outfit zusammenstellen, kurz vor Schluss noch die Schuhe wechseln – und dann ab auf den Laufsteg. Dress to Impress ist kreatives Styling mit jeder Menge Zeitdruck.",
+      "cta": "Was ist schwieriger: ein originelles Outfit oder die Bewertung danach?",
+      "hashtags": "#DressToImpress #RobloxFashion #RunwayLook #StyleChallenge #AvatarFashion"
+    },
+    {
+      "topic": "gaming",
+      "post_id": "gaming-10",
+      "file": "assets/beitrag-gaming-11.webp",
+      "subject": "Genshin Impact",
+      "image_source": "a_detailed_realistic_neon_lit_gaming_room_scene_i.png",
+      "caption": "Ein neuer Weg, Lichter zwischen den Häusern und im Hintergrund schon die nächste Welt zum Erkunden. Genshin Impact macht aus kleinen Entdeckungen manchmal die besten Spielmomente.",
+      "cta": "Zieht es dich eher zu Quests, zum Erkunden oder zu neuen Charakteren?",
+      "hashtags": "#GenshinImpact #Teyvat #OpenWorldRPG #GamingAdventure #FantasyWorld"
+    },
+    {
+      "topic": "gaming",
+      "post_id": "gaming-11",
+      "file": "assets/beitrag-gaming-12.webp",
+      "subject": "99 Nights in the Forest",
+      "image_source": "a_vibrant_cinematic_gaming_setup_scene_in_a_dim_p.png",
+      "caption": "Das Lagerfeuer brennt noch, aber hinter den Bäumen wird es verdächtig dunkel. Bei 99 Nights in the Forest wird aus „nur noch eine Nacht“ schnell eine ziemlich nervenaufreibende Teamrunde.",
+      "cta": "Was ist eure beste Überlebensstrategie: zusammenbleiben oder Aufgaben aufteilen?",
+      "hashtags": "#99NightsInTheForest #RobloxSurvival #Campfire #CoopGaming #SurvivalChallenge"
+    }
+  ],
+  "updated_animals": [
+    {
+      "topic": "tiere",
+      "post_id": "tiere-0",
+      "file": "assets/beitrag-tiere-01.webp",
+      "subject": "Katzen",
+      "image_source": "a_sharp_realistic_indoor_scene_of_a_cozy_workspac.png",
+      "caption": "Kaum ist der Laptop offen, erklärt diese Katze die Tastatur zu ihrem persönlichen Liegeplatz. Prioritäten sind eben Prioritäten – und diese Pfote gewinnt jede Diskussion. 🐱",
+      "cta": "Setzt sich eure Katze auch immer genau dorthin, wo ihr arbeiten wollt?",
+      "hashtags": "#KatzenLiebe #CatOnKeyboard #MiezMoment #CatLife #Fellnasen"
+    },
+    {
+      "topic": "tiere",
+      "post_id": "tiere-1",
+      "file": "assets/beitrag-tiere-02.webp",
+      "subject": "Hunde",
+      "image_source": "a_crisp_realistic_high_detail_indoor_entryway_sc.png",
+      "caption": "Leine schon im Maul, Blick zur Tür: Dieser Golden Retriever ist ganz eindeutig früher bereit als sein Mensch. Wer könnte bei diesem Gesicht noch „gleich“ sagen? 🐶",
+      "cta": "Womit kündigt euer Hund an, dass jetzt Spaziergangszeit ist?",
+      "hashtags": "#Hundeliebe #GoldenRetriever #GassiZeit #DogMoment #PfotenGlück"
+    },
+    {
+      "topic": "tiere",
+      "post_id": "tiere-2",
+      "file": "assets/beitrag-tiere-03.webp",
+      "subject": "Gecko",
+      "image_source": "schelmischer_gecko_mit_zungenblitz.png",
+      "caption": "Dieser winzige Gecko schaut uns an, als hätte er gerade das beste Geheimnis der Welt erfahren. Diese großen Augen und die kleine Zunge! 🦎",
+      "cta": "Findet ihr Geckos eher süß oder faszinierend?",
+      "hashtags": "#Gecko #ReptilienLiebe #MiniDrache #Tierfotografie #KleineEntdecker"
+    },
+    {
+      "topic": "tiere",
+      "post_id": "tiere-3",
+      "file": "assets/beitrag-tiere-04.webp",
+      "subject": "Pferde",
+      "image_source": "a_crisp_photorealistic_warmly_lit_outdoor_scene.png",
+      "caption": "Ein leiser Moment am Stall: Die Reiterin lehnt sich an ihr Pferd, und für ein paar Sekunden ist der ganze Alltag weit weg. Manchmal sagt eine Umarmung mehr als tausend Worte. 🐴",
+      "cta": "Was ist euer schönster Moment mit einem Pferd?",
+      "hashtags": "#Pferdeliebe #StallZeit #Pferdefreundschaft #EquestrianLife #HerzensMoment"
+    },
+    {
+      "topic": "tiere",
+      "post_id": "tiere-4",
+      "file": "assets/beitrag-tiere-05.webp",
+      "subject": "Esel",
+      "image_source": "neugieriger_esel_im_abendlicht.png",
+      "caption": "Diese Ohren! Der Esel bleibt mitten auf dem Weg stehen und schaut, als würde er uns gleich eine ziemlich wichtige Frage stellen. 🫏",
+      "cta": "Wie würdet ihr diesen neugierigen Esel nennen?",
+      "hashtags": "#EselLiebe #LongEars #TierMomente #BauernhofLeben #HerzensTier"
+    },
+    {
+      "topic": "tiere",
+      "post_id": "tiere-5",
+      "file": "assets/beitrag-tiere-06.webp",
+      "subject": "Hühner",
+      "image_source": "hühnersturm_ums_futter_im_bauernhof.png",
+      "caption": "Sobald es etwas zu picken gibt, verwandelt sich die Hühnergruppe in eine kleine Rennmannschaft. Und jede scheint überzeugt: Sie war zuerst da! 🐔",
+      "cta": "Welcher Henne würdet ihr die Rolle als Chefin geben?",
+      "hashtags": "#HühnerLiebe #HühnerBande #FarmLife #TierHumor #BauernhofMomente"
+    },
+    {
+      "topic": "tiere",
+      "post_id": "tiere-6",
+      "file": "assets/beitrag-tiere-07.webp",
+      "subject": "Kaninchen",
+      "image_source": "springender_kaninchenmoment_im_wohnzimmer.png",
+      "caption": "Vier Pfoten kurz in der Luft, die Ohren fliegen mit – dieses Kaninchen hat gerade eindeutig seinen Energie-Moment. Danach gibt’s bestimmt wieder Kuschelpause. 🐰",
+      "cta": "Machen eure Kaninchen auch plötzlich solche Freudensprünge?",
+      "hashtags": "#KaninchenLiebe #BunnyZoomies #HopHop #PetMoments #FlauschAlarm"
+    },
+    {
+      "topic": "tiere",
+      "post_id": "tiere-7",
+      "file": "assets/beitrag-tiere-08.webp",
+      "subject": "Hamster",
+      "image_source": "a_close_up_realistic_photo_of_a_small_pet_hamster.png",
+      "caption": "Der Hamster hat heute ganz offensichtlich einen Trainingsplan: Laufrad an, Backen voll, alle anderen dürfen zuschauen. 🐹",
+      "cta": "Sind eure kleinen Mitbewohner*innen abends auch so aktiv?",
+      "hashtags": "#HamsterLiebe #HamsterWheel #MiniSportler #KleintierLiebe #NachtAktiv"
+    },
+    {
+      "topic": "tiere",
+      "post_id": "tiere-8",
+      "file": "assets/beitrag-tiere-09.webp",
+      "subject": "Meerschweinchen",
+      "image_source": "a_hyper_realistic_close_up_slightly_wide_angle_p.png",
+      "caption": "Der Kühlschrank geht auf und da ist sofort jemand zur Stelle. Dieses Meerschweinchen hat offenbar sehr genaue Vorstellungen davon, wann Snackzeit ist. 🥕",
+      "cta": "Welche Leckerei bringt eure Meerschweinchen sofort zum Quieken?",
+      "hashtags": "#Meerschweinchen #WheekWheek #SnackTime #KleintierLiebe #SüßeTiere"
+    },
+    {
+      "topic": "tiere",
+      "post_id": "tiere-9",
+      "file": "assets/beitrag-tiere-10.webp",
+      "subject": "Chinchilla",
+      "image_source": "flauschige_kleintiergruppe_im_kuschelnest.png",
+      "caption": "Weiches Fell, große Ohren und lauter neugierige Knopfaugen: Bei diesen kleinen Fellnasen weiß man gar nicht, wen man zuerst anschauen soll. 🥹",
+      "cta": "Welches Tier auf dem Bild ist für euch der heimliche Star?",
+      "hashtags": "#Chinchilla #FlauschAlarm #Kleintiere #CuteAnimalClub #Tierliebe"
+    },
+    {
+      "topic": "tiere",
+      "post_id": "tiere-10",
+      "file": "assets/beitrag-tiere-11.webp",
+      "subject": "Schlange",
+      "image_source": "smaragdgrüne_schlange_im_seerosenteich.png",
+      "caption": "Schaut euch dieses Muster an! Die grüne Schlange liegt beinahe unsichtbar zwischen den Blättern. So viel Eleganz auf so wenig Raum. 🐍",
+      "cta": "Würdet ihr sie im Grünen auf den ersten Blick entdecken?",
+      "hashtags": "#Schlangen #Reptilien #NatureCloseUp #WildlifeLove #TierWissen"
+    },
+    {
+      "topic": "tiere",
+      "post_id": "tiere-11",
+      "file": "assets/beitrag-tiere-12.webp",
+      "subject": "Hunde",
+      "image_source": "a_realistic_close_up_outdoor_photo_of_a_young_dog.png",
+      "caption": "Manchmal braucht es gar kein großes Abenteuer: ein ruhiger Weg, neue Gerüche und eine Person, die sich Zeit nimmt. Genau solche Momente tun vielen Hunden gut. 🐕",
+      "cta": "Wer von euch würde gern einmal bei einem Tierheim-Spaziergang helfen?",
+      "hashtags": "#TierheimHunde #GassiHelfen #Tierschutz #Hundeglück #VierPfoten"
+    },
+    {
+      "topic": "tiere",
+      "post_id": "tiere-12",
+      "file": "assets/beitrag-tiere-13.webp",
+      "subject": "Katzen",
+      "image_source": "a_realistic_close_up_indoor_pet_photo_in_warm_nat.png",
+      "caption": "Das aufwendigste Katzenspielzeug? Offenbar ein ganz gewöhnlicher Karton. Diese kleine Samtpfote schaut heraus, als hätte sie gerade ihr Traumschloss bezogen. 📦🐱",
+      "cta": "Was ist der seltsamste Lieblingsplatz eurer Katze?",
+      "hashtags": "#KatzenLiebe #KartonKatze #MiezGlück #CatInABox #Fellnasen"
+    },
+    {
+      "topic": "tiere",
+      "post_id": "tiere-13",
+      "file": "assets/beitrag-tiere-14.webp",
+      "subject": "Hunde",
+      "image_source": "a_sharp_realistic_high_quality_photo_of_a_joyful.png",
+      "caption": "Ball entdeckt, Ohren im Wind, und schon startet der nächste Sprint durch den Garten. Dieser Hund sieht aus, als hätte er gerade den besten Nachmittag überhaupt. 🐕🎾",
+      "cta": "Was macht eurem Hund beim Spielen am meisten Spaß?",
+      "hashtags": "#Hundespiel #BallLiebe #GoldenRetriever #DogZoomies #PfotenPower"
+    },
+    {
+      "topic": "tiere",
+      "post_id": "tiere-14",
+      "file": "assets/beitrag-tiere-15.webp",
+      "subject": "Pferde",
+      "image_source": "a_realistic_photographic_scene_of_an_outdoor_eques.png",
+      "caption": "Kurz vor der Landung über dem Hindernis: Pferd und Reiterin wirken wie ein eingespieltes Team. Hinter so einer Sekunde stecken unglaublich viele Übungsrunden. 🐎",
+      "cta": "Was begeistert euch mehr: Springreiten oder Dressur?",
+      "hashtags": "#Springreiten #Pferdesport #Equestrian #TeamPferd #Reittraining"
+    },
+    {
+      "topic": "tiere",
+      "post_id": "tiere-15",
+      "file": "assets/beitrag-tiere-16.webp",
+      "subject": "Wildtiere",
+      "image_source": "a_crisp_realistic_high_resolution_outdoor_wildli.png",
+      "caption": "Dichtes Gefieder, kleine Flügel und ein erstaunlich entschlossener Gang: Pinguine wirken gleichzeitig elegant und unfassbar knuffig. 🐧",
+      "cta": "Was würdet ihr über Pinguine am liebsten einmal lernen?",
+      "hashtags": "#Pinguine #Wildtiere #TierWissen #NaturEntdecken #WildlifeMoments"
+    }
+  ],
+  "sports_update": 12,
+  "unchanged_sport_posts": 2,
+  "preserved_posts": 94,
+  "feed_logic": "30 baseline + 18 personalized, unchanged",
+  "comments": "game-specific and animal-specific, 11/17/28 distinct entries depending on displayed post position",
+  "note": "Jedes ersetzte Bild stammt aus einer vorhandenen, einzeln überprüften Bilddatei im Arbeitsverzeichnis und ist am Ende mit AI GENERATED markiert."
+}
